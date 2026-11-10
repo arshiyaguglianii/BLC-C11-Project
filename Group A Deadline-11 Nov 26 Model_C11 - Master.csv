@@ -1,0 +1,471 @@
+S.No,Country,City,Company,LINKDLN LINK,Website,Tech Need / Problem,EMAIL,CONTACT,Google Map,Category
+1,India,Indore ,Dr. Manish Jain Physiotherapy,N/A,N/A,N/A,N/A,098270 31804,https://maps.google.com/?q=Dr.+Manish+Jain+Physiotherapy+Indore,Physiotherapy Clinic
+2,India,Indore ,Sai Homeopathic Clinic,N/A,N/A,N/A,N/A,098263 35501,https://maps.google.com/?q=Sai+Homeopathic+Clinic+Vijay+Nagar+Indore,Homeopathy Clinic
+3,India,Indore ,IEMS Indore,N/A,N/A,N/A,N/A,098260 11211,https://maps.google.com/?q=IEMS+Indore+Apollo+Trade+Centre,First Aid Training
+4,India,Indore ,GNC Classes,N/A,N/A,N/A,N/A,097555 58155,https://maps.google.com/?q=GNC+Classes+Bhanwarkua+Indore,Academic Coaching
+5,India,Indore ,Parmanu Medical Institute,N/A,N/A,N/A,N/A,099264 45678,https://maps.google.com/?q=Parmanu+Medical+Institute+Indore,Medical Entrance
+6,India,Indore ,Medwin Nursing Academy,N/A,N/A,N/A,N/A,098267 89012,https://maps.google.com/?q=Medwin+Nursing+Academy+Indore,Nursing Coaching
+7,India,Indore ,Swaraj Coaching Institute,N/A,N/A,N/A,N/A,0731 245 6789,https://maps.google.com/?q=Swaraj+Coaching+Institute+LIG+Indore,Academic Tuition
+8,India,Indore ,Dr. Gupta Skin & Hair,N/A,N/A,N/A,N/A,094250 55123,https://maps.google.com/?q=Dr.+Gupta+Skin+and+Hair+Indore,Skin Clinic
+9,India,Indore ,Creative Computer Training,N/A,N/A,N/A,N/A,098260 22334,https://maps.google.com/?q=Creative+Computer+Training+Sudama+Nagar+Indore,Computer Training
+10,India,Indore ,Success Spoken English,N/A,N/A,N/A,N/A,0731 405 1234,https://maps.google.com/?q=Success+Spoken+English+RNT+Marg+Indore,Spoken English
+11,India,Indore ,Ashirwad Dental Clinic,N/A,N/A,N/A,N/A,098930 11223,https://maps.google.com/?q=Ashirwad+Dental+Clinic+Annapurna+Indore,Dental Clinic
+,,,,,,,,,,
+12,India,Mumbai,Rita's Glaam Salon,N/A,N/A,N/A,N/A,7039157910,https://maps.app.goo.gl/jhFBjK6GB8CBtbu3A?g_st=ic,Salon
+13,India,Mumbai,Fabulous Glow Salon,N/A,N/A,N/A,N/A,8169690114,https://maps.app.goo.gl/tEdVWYn18SABKjCh6?g_st=ic,Salon
+14,India,Mumbai,Relax Beauty Parlour,N/A,N/A,N/A,N/A,9867415626,https://maps.app.goo.gl/WNRrbEX6iQ5vjV3p6?g_st=ic,Salon
+15,India,Mumbai,Sassanian Restaurent and Bakery,N/A,N/A,N/A,N/A,8976091334,https://maps.app.goo.gl/7XYrYtRdAsaCqpnPA?g_st=ic,Bakery
+16,India,Mumbai,Balwas Restaurent ,N/A,N/A,N/A,N/A,2222070717,https://maps.app.goo.gl/ZT2iE8XwdLtrAn9s8?g_st=ic,Restaurent
+17,India,Mumbai,Kyani and Co.,N/A,N/A,N/A,N/A,8928616793,https://maps.app.goo.gl/BFXQADocGgA4Rw8z9?g_st=ic,Restaurent
+18,India,Mumbai,Bhakti SuperMart,N/A,N/A,N/A,N/A,8291451111,https://maps.app.goo.gl/cP4qq3XbkLEarzSg7?g_st=ic,Grocery Store
+19,India,Mumbai,RidhiSidhi SuperMarket,N/A,N/A,N/A,N/A,9619961441,https://maps.app.goo.gl/mS8toUVDx4CfAfyt5?g_st=ic,Super Market
+20,India,Mumbai,Jagannath Superstore,N/A,N/A,N/A,N/A,9004321641,https://maps.app.goo.gl/mS8toUVDx4CfAfyt5?g_st=ic,Super Market
+21,India,Mumbai,Shri Krishna Dairy Farm,N/A,N/A,N/A,N/A,2222072065,https://maps.app.goo.gl/YxUV2SxGBXMewKxg8?g_st=ic,Dairy Shop
+22,India,Mumbai,Sumit Dairy,N/A,N/A,N/A,N/A,9867165061,https://maps.app.goo.gl/ziox6LhdzD1ww2ve6?g_st=ic,Dairy Shop
+23,India,Gujarat,MS-Food and Cafe,N/A,N/A,N/A,N/A,9913930410,https://maps.app.goo.gl/Ldvp9SQzv4rQEgsG9?g_st=ic,Cafe
+24,India,Gujarat,Sativik's Dal Pakwan,N/A,N/A,N/A,N/A,9173703818,https://maps.app.goo.gl/U3ERP585kzRXCsdu7?g_st=ic,Food shop
+25,India,Gujarat,HL Vadapav,N/A,N/A,N/A,N/A,9427050449,https://maps.app.goo.gl/UdTqzdeB3ix9rARd7?g_st=ic,Food shop
+26,India,Bengaluru,Maria Home Clinic,N/A,N/A,N/A,N/A,6362882564,https://maps.app.goo.gl/qAiqKEPGsBgTvMic6?g_st=ic,Medical Clinic
+27,India,Bengaluru,Life Care Home Health Services,N/A,N/A,N/A,N/A,8618814766,https://maps.app.goo.gl/kCfYTi7nkCmtRMYs7?g_st=ic,Medical Clinic
+28,USA,Los Angeles,California Market,N/A,N/A,N/A,N/A,2133829444,https://maps.app.goo.gl/ZZ5Lj6ejTnpXiDbX6?g_st=ic,Super Market
+29,USA,Los Angeles,Katy Beauty Salon,N/A,N/A,N/A,N/A,2133862219,https://maps.app.goo.gl/1WmJWC7arvzA2GWu7?g_st=ic,Salon
+30,USA,Los Angeles,Beauty Secret Health Salon,N/A,N/A,N/A,N/A,3237821004,https://maps.app.goo.gl/mWA5vycXxwMqSkEz5?g_st=ic,Salon
+,,,,,,,,,,
+,,,,,,,,,,
+31,India,Delhi,SAI SAGAR FAMILY RESTAURANT & BAR,N/A,N/A,N/A,N/A,+91 72085 78955,https://www.google.com/maps/search/?api=1&query=SAI%20SAGAR%20FAMILY%20RESTAURANT%20%26%20BAR&query_place_id=ChIJW2sp1PbP5zsRwh_kitUrhMk,Restaurent
+32,India,Delhi,Relax Fast Food,N/A,N/A,N/A,N/A,+91 22 2411 6368,https://www.google.com/maps/search/?api=1&query=Relax%20Fast%20Food&query_place_id=ChIJVVVVlSjP5zsRYCEMXTkQRf4,Restaurent
+33,India,Delhi,Utsav Bar,N/A,N/A,N/A,N/A,+91 98213 02233,https://www.google.com/maps/search/?api=1&query=Utsav%20Bar&query_place_id=ChIJ5WkNIiHP5zsRRPw9Y2doTPs,Restaurent
+34,India,Delhi,A1 Chinese Family Restaurant,N/A,N/A,N/A,N/A,+91 95941 22998,https://www.google.com/maps/search/?api=1&query=A1%20Chinese%20Family%20Restaurant&query_place_id=ChIJSVveLK7P5zsRM4yFH_21xvA,Restaurent
+35,India,Delhi,Wadala Restaurant & Stores,N/A,N/A,N/A,N/A,+91 22 2412 8850,https://www.google.com/maps/search/?api=1&query=Wadala%20Restaurant%20%26%20Stores&query_place_id=ChIJd4myMyLP5zsRx-3UARQqAJc,Restaurent
+36,India,Delhi,Hotel Panchavati Bar & Restaurant,N/A,N/A,N/A,N/A,+91 22 2412 4120,https://www.google.com/maps/search/?api=1&query=Hotel%20Panchavati%20Bar%20%26%20Restaurant&query_place_id=ChIJy7Fy2DzP5zsRsDEw2_-i3ew,Restaurent
+37,India,Delhi,Theona,N/A,N/A,N/A,N/A,+91 98671 74192,https://www.google.com/maps/search/?api=1&query=Theona&query_place_id=ChIJodJkCTrP5zsRoB9WW-W4qJc,Restaurent
+38,India,Delhi,Milan Refreshment's Manchow Point,N/A,N/A,N/A,N/A,+91 91366 32800,https://www.google.com/maps/search/?api=1&query=Milan%20Refreshment's%20Manchow%20Point&query_place_id=ChIJXQ7Y3t3O5zsRoal7VLI6adg,Restaurent
+39,India,Delhi,"Yaam""s oriental Cuisine Restaurant",N/A,N/A,N/A,N/A,+91 90042 82545,https://www.google.com/maps/search/?api=1&query=Yaam%22s%20oriental%20Cuisine%20Restaurant&query_place_id=ChIJV_24JMTP5zsRyWq9dq5bgdg,Restaurent
+40,India,Delhi,The Juicy Bites,N/A,N/A,N/A,N/A,+91 77380 24507,https://www.google.com/maps/search/?api=1&query=The%20Juicy%20Bites&query_place_id=ChIJRz-44-bP5zsRxGREP9NL2f0,Restaurent
+41,India,Delhi,Anna's Tasty Corner,N/A,N/A,N/A,N/A,+91 82867 39007,https://www.google.com/maps/search/?api=1&query=Anna's%20Tasty%20Corner&query_place_id=ChIJT8uRhmPP5zsR8yozyhEq5fI,Restaurent
+42,India,Delhi,Jyoti Refreshments,N/A,N/A,N/A,N/A,+91 22 2412 3949,https://www.google.com/maps/search/?api=1&query=Jyoti%20Refreshments&query_place_id=ChIJ38Gg6N7O5zsRIQBrBfN8E0k,Restaurent
+43,India,Delhi,New Barkati Darbar Hotel,N/A,N/A,N/A,N/A,+91 96191 33776,https://www.google.com/maps/search/?api=1&query=New%20Barkati%20Darbar%20Hotel&query_place_id=ChIJbcIQzDzP5zsR38U77Tn0QkY,Restaurent
+44,India,Delhi,Sainath Bar and Restaurant,N/A,N/A,N/A,N/A,+91 22 2418 9392,https://www.google.com/maps/search/?api=1&query=Sainath%20Bar%20and%20Restaurant&query_place_id=ChIJlZMbeh_P5zsR_wVDkBBu9is,Restaurent
+45,India,Delhi,Hotel Vishnu aka Vishnu Express,N/A,N/A,N/A,N/A,+91 22 2413 3997,https://www.google.com/maps/search/?api=1&query=Hotel%20Vishnu%20aka%20Vishnu%20Express&query_place_id=ChIJrxV1NCLP5zsRl3ziFJLEp5o,Restaurent
+46,India,Delhi,Bharat Restaurant,N/A,N/A,N/A,N/A,+91 99879 12811,https://www.google.com/maps/search/?api=1&query=Bharat%20Restaurant&query_place_id=ChIJ3VDZGz3P5zsRCJnGlaPXJCg,Restaurent
+47,India,Delhi,Cafe Farmer Stores & Restaurant,N/A,N/A,N/A,N/A,+91 98922 20119,https://www.google.com/maps/search/?api=1&query=Cafe%20Farmer%20Stores%20%26%20Restaurant&query_place_id=ChIJHUBHy4XP5zsR02zQPk_Mvec,Restaurent
+48,India,Delhi,Swagat Veg Treat,N/A,N/A,N/A,N/A,+91 22 2414 2470,https://www.google.com/maps/search/?api=1&query=Swagat%20Veg%20Treat&query_place_id=ChIJo-sTz97O5zsRgU7CoMWvkno,Restaurent
+49,India,Delhi,Wok - In,N/A,N/A,N/A,N/A,+91 99677 37330,https://www.google.com/maps/search/?api=1&query=Wok%20-%20In&query_place_id=ChIJs2VJMiLP5zsRtPMXxi0MdVU,Restaurent
+50,India,Delhi,Nirmal punjab family Restaurant,N/A,N/A,N/A,N/A,+91 80977 50442,https://www.google.com/maps/search/?api=1&query=Nirmal%20punjab%20family%20Restaurant&query_place_id=ChIJA11Va4rI5zsRBGUkgaR22yE,Restaurent
+51,India,Delhi,Foody Hub chinese and shawarma restaurant,N/A,N/A,N/A,N/A,+91 72250 52699,https://www.google.com/maps/search/?api=1&query=Foody%20Hub%20chinese%20and%20shawarma%20restaurant&query_place_id=ChIJT_4mjl7J5zsRvtATcMH9cTY,Restaurent
+52,India,Delhi,Hariyali Restaurant and Bar,N/A,N/A,N/A,N/A,+91 22 2412 3869,https://www.google.com/maps/search/?api=1&query=Hariyali%20Restaurant%20and%20Bar&query_place_id=ChIJ3dfxRj3P5zsRBtkG3tz8V-I,Restaurent
+53,India,Delhi,Nectars Restaurant & Bar,N/A,N/A,N/A,N/A,+91 85911 35393,https://www.google.com/maps/search/?api=1&query=Nectars%20Restaurant%20%26%20Bar&query_place_id=ChIJ3zlRBVzP5zsRiJI9eaBeqxQ,Restaurent
+54,India,Delhi,Mani's Lunch Home,N/A,N/A,N/A,N/A,+91 98203 34887,https://www.google.com/maps/search/?api=1&query=Mani's%20Lunch%20Home&query_place_id=ChIJxfDORNjO5zsRzB8Nlq6JS4E,Restaurent
+55,India,Delhi,New India Restaurant,N/A,N/A,N/A,N/A,+91 88506 38615,https://www.google.com/maps/search/?api=1&query=New%20India%20Restaurant&query_place_id=ChIJYwpiUD3P5zsRMyOk-qTRGbA,Restaurent
+56,USA,Los Angeles,Monte Carlo Cafe,N/A,N/A,N/A,N/A,3108186628,https://maps.app.goo.gl/Tx1xnprBzG1gdewv5?g_st=iw,Restuarent
+57,USA,Los Angeles,Tacos La 26!,N/A,N/A,N/A,N/A,3236895284,https://maps.app.goo.gl/EZ1NCRz32Y2Hn8nD6?g_st=iw,Restuarent
+58,USA,Los Angeles,Cafe Vida,N/A,N/A,N/A,N/A,3106436205,https://maps.app.goo.gl/hf1jaSa1tFv5RE2P7?g_st=iw,Restaurent
+,,,,,,,,,,
+,,,,,,,,,,
+59,USA,City,Evergreen Restaurant,N/A,N/A,N/A,N/A,(818) 708-0099,https://www.google.com/maps/search/?api=1&query=Evergreen%20Restaurant&query_place_id=ChIJr_wpdYmZwoAR7JN2-fZu1V8,Restaurent
+60,USA,Los Angeles,Don Zarape Restaurant #2,N/A,N/A,N/A,N/A,(818) 762-7768,https://www.google.com/maps/search/?api=1&query=Don%20Zarape%20Restaurant%20%232&query_place_id=ChIJuwcQKu2VwoAR0XYHoqrX-4s,Restaurent
+61,USA,City,Ledy's Restaurant,N/A,N/A,N/A,N/A,(818) 761-5504,https://www.google.com/maps/search/?api=1&query=Ledy's%20Restaurant&query_place_id=ChIJV-nz4LeXwoARtZKPPt3RUck.,Restaurent
+62,USA,City,El Rancherito Restaurant,N/A,N/A,N/A,N/A,(818) 758-9775,https://www.google.com/maps/search/?api=1&query=El%20Rancherito%20Restaurant&query_place_id=ChIJNZcoCyaawoARciP4u6VOxCc,Restaurent
+63,USA,City,Khun Khao Thai Restaurant,N/A,N/A,N/A,N/A,(818) 786-6969,https://www.google.com/maps/search/?api=1&query=Khun%20Khao%20Thai%20Restaurant&query_place_id=ChIJ_eWtAdKWwoAREYFiwfLsHgo,Restaurent
+64,India,Delhi,Delicacy Restaurant,N/A,N/A,N/A,N/A,+91 86300 57407,https://www.google.com/maps/search/?api=1&query=Delicacy%20Restaurant&query_place_id=ChIJcS3OLfDI5zsRZclmNusz850,Restaurent
+65,India,Delhi,Hotel Kwality Restaurant And Bar,N/A,N/A,N/A,N/A,+91 93721 24183,https://www.google.com/maps/search/?api=1&query=Hotel%20Kwality%20Restaurant%20And%20Bar&query_place_id=ChIJp96r1v7I5zsRAyvmYwQFzKM,Restaurent
+66,India,Delhi,Aasra Cafe Star,N/A,N/A,N/A,N/A,+91 72082 70745,https://www.google.com/maps/search/?api=1&query=Aasra%20Cafe%20Star&query_place_id=ChIJPZ3U6ADJ5zsR-EgjEZKSo84,Restaurent
+67,India,Delhi,Sadguru Sandwich,N/A,N/A,N/A,N/A,+91 98672 26358,https://www.google.com/maps/search/?api=1&query=Sadguru%20Sandwich&query_place_id=ChIJxXWBz__I5zsRCzcUejPqj10,Restaurent
+68,India,Delhi,Fountain Hotel,N/A,N/A,N/A,N/A,+91 79823 19633,https://www.google.com/maps/search/?api=1&query=Fountain%20Hotel&query_place_id=ChIJSQnKegPJ5zsRAAAAsNqWDQc,Restaurent
+69,India,Delhi,Nitin Restaurant,N/A,N/A,N/A,N/A,+91 88533 94098,https://www.google.com/maps/search/?api=1&query=Nitin%20Restaurant&query_place_id=ChIJtcslUGrJ5zsRRqGay99huKE,Restaurent
+70,India,Delhi,Hotel Sadichha (Vakola),N/A,N/A,N/A,N/A,+91 85911 78889,https://www.google.com/maps/search/?api=1&query=Hotel%20Sadichha%20(Vakola)&query_place_id=ChIJt0lxx__I5zsRjpZuO0VYD6Y,Restaurent
+71,India,Delhi,China Garden,N/A,N/A,N/A,N/A,+91 70455 56551,https://www.google.com/maps/search/?api=1&query=China%20Garden&query_place_id=ChIJlWhMjm2_5zsRQDcVreiD1pk,Restaurent
+72,India,Delhi,Hotel Nityanand,N/A,N/A,N/A,N/A,+91 83694 57648,https://www.google.com/maps/search/?api=1&query=Hotel%20Nityanand&query_place_id=ChIJq8w0kAPJ5zsRWofsdh1GKns,Restaurent
+73,India,Delhi,NATIONAL HINDU RESTAURANT,N/A,N/A,N/A,N/A,+91 98330 76692,https://www.google.com/maps/search/?api=1&query=NATIONAL%20HINDU%20RESTAURANT&query_place_id=ChIJJSPhpC3J5zsRU1Or9nhzDZ4,Restaurent
+74,India,Delhi,The NorthEast Kitchen,N/A,N/A,N/A,N/A,+91 70458 32407,https://www.google.com/maps/search/?api=1&query=The%20NorthEast%20Kitchen&query_place_id=ChIJBeInZMfJ5zsRdur0HOoPH5k,Restaurent
+75,India,Delhi,Bhagirathi Veg Restaurant,N/A,N/A,N/A,N/A,+91 99872 34088,https://www.google.com/maps/search/?api=1&query=Bhagirathi%20Veg%20Restaurant-%20Pure%20veg%20restaurant%7C%20,Restaurent
+76,India,Delhi,Shekhar Family Restaurant,N/A,N/A,N/A,N/A,+91 90821 84505,https://www.google.com/maps/search/?api=1&query=Shekhar%20Family%20Restaurant&query_place_id=ChIJpUDYW_zJ5zsR2CG1rri-TVA,Restaurent
+77,India,Delhi,Hotel Sudarshan,N/A,N/A,N/A,N/A,+91 22 2668 5417,https://www.google.com/maps/search/?api=1&query=Hotel%20Sudarshan&query_place_id=ChIJb3P0OgDJ5zsRFRyE1jtHEPI,Restaurent
+78,India,Delhi,Everything Rice,N/A,N/A,N/A,N/A,+91 80974 95305,https://www.google.com/maps/search/?api=1&query=Everything%20Rice&query_place_id=ChIJkWgA_DPJ5zsRro5IvGdh_8U,Restaurent
+79,India,Delhi,Aditi Restaurant,N/A,N/A,N/A,N/A,+91 90041 74765,https://www.google.com/maps/search/?api=1&query=Aditi%20Restaurant&query_place_id=ChIJ9eHQyN_J5zsR5xFOS18vsaU,Restaurent
+80,India,Delhi,Hotel Dwarka,N/A,N/A,N/A,N/A,+91 77388 24100,https://www.google.com/maps/search/?api=1&query=Hotel%20Dwarka&query_place_id=ChIJRfKorb_J5zsRJ58DGso8a7w,Restaurent
+81,India,Delhi,hotel tavakkal & restaurant,N/A,N/A,N/A,N/A,+91 80970 28057,https://www.google.com/maps/search/?api=1&query=hotel%20tavakkal%20%26%20restaurant&query_place_id=ChIJ5SK4gaHJ5zsRS_jHjnxnZGY,Restaurent
+82,India,Delhi,Mama's Family Restaurant And Bar,N/A,N/A,N/A,N/A,+91 98344 96965,https://www.google.com/maps/search/?api=1&query=Mama's%20Family%20Restaurant%20And%20Bar&query_place_id=ChIJdbRSCozI5zsRsOCXb8fZ5HY,Restaurent
+83,India,Delhi,lanlan restaurent,N/A,N/A,N/A,N/A,+91 97693 51093,https://www.google.com/maps/search/?api=1&query=lanlan%20restaurent&query_place_id=ChIJ76bIvM_J5zsRCePVvmbP9Lw,Restaurent
+84,India,Delhi,Mehfil Restaurant And Bar,N/A,N/A,N/A,N/A,+91 22 2642 4766,https://www.google.com/maps/search/?api=1&query=Mehfil%20Restaurant%20And%20Bar&query_place_id=ChIJR2C13jzJ5zsRmQt0sySmzHw,Restaurent
+85,India,Delhi,CHINA GATE RESTAURANT,N/A,N/A,N/A,N/A,+91 81042 98251,https://www.google.com/maps/search/?api=1&query=CHINA%20GATE%20RESTAURANT&query_place_id=ChIJ6X5i2pbJ5zsRlcZvxFPj9Tk,Restaurent
+86,India,Delhi,Fatmas Yummy Corner,N/A,N/A,N/A,N/A,+91 98208 13377,https://www.google.com/maps/search/?api=1&query=Fatmas%20Yummy%20Corner&query_place_id=ChIJ9_7o07PJ5zsRGJaX3__TMzU,Restaurent
+87,India,Delhi,sadguru restaurant,N/A,N/A,N/A,N/A,+91 82910 59353,https://www.google.com/maps/search/?api=1&query=sadguru%20restaurant&query_place_id=ChIJE81GBI3I5zsRAIZUOIZxfYI,Restaurent
+88,India,Delhi,Hotel Nityanand,N/A,N/A,N/A,N/A,+91 77384 14064,https://www.google.com/maps/search/?api=1&query=Hotel%20Nityanand&query_place_id=ChIJvbu6FT_J5zsRGutEeTzX3A0,Restaurent
+,,,,,,,,,,
+,,,,,,,,,,
+89,India,Delhi,Delhi Grills Kurla,N/A,N/A,N/A,N/A,+91 99201 88818,https://www.google.com/maps/search/?api=1&query=Delhi%20Grills%20Kurla&query_place_id=ChIJjc6L863J5zsROE2oaEabiLs,Restaurent
+90,India,Delhi,Fusion Hub,N/A,N/A,N/A,N/A,+91 84337 23597,https://www.google.com/maps/search/?api=1&query=Fusion%20Hub&query_place_id=ChIJmeEsSbLJ5zsR7aWttaBx3S8,Restaurent
+91,India,Delhi,Burn - Bar & Kitchen,N/A,N/A,N/A,N/A,+91 93242 21370,https://www.google.com/maps/search/?api=1&query=Burn%20-%20Bar%20%26%20Kitchen&query_place_id=ChIJaQTJ8e3I5zsRtqy1--zlIYo,Restaurent
+92,India,Delhi,The Greedy Flavours,N/A,N/A,N/A,N/A,+91 88506 51010,https://www.google.com/maps/search/?api=1&query=The%20Greedy%20Flavours&query_place_id=ChIJuaExYQDJ5zsR7TOQSYXh1pA,Restaurent
+93,India,Delhi,Anil Wine N Dine,N/A,N/A,N/A,N/A,+91 98679 52228,https://www.google.com/maps/search/?api=1&query=Anil%20Wine%20N%20Dine&query_place_id=ChIJXwyJ4YfI5zsRWtt_zDxzVDo,Restaurent
+94,India,Delhi,Lucknow Zaika Restaurant,N/A,N/A,N/A,N/A,+91 97680 77799,https://www.google.com/maps/search/?api=1&query=Lucknow%20Zaika%20Restaurant&query_place_id=ChIJdSJtFY3I5zsRh0UrALRt0xU,Restaurent
+95,India,Delhi,Masala Dice,N/A,N/A,N/A,N/A,+91 70450 57073,https://www.google.com/maps/search/?api=1&query=Masala%20Dice&query_place_id=ChIJOfRebUnJ5zsR5qC_cWrCcgI,Restaurent
+96,India,Delhi,Arpita Restaurant,N/A,N/A,N/A,N/A,+91 75063 23321,https://www.google.com/maps/search/?api=1&query=Arpita%20Restaurant&query_place_id=ChIJpdb54ADJ5zsR1gNpc2RSAbQ,Restaurent
+97,India,Delhi,The Camp,N/A,N/A,N/A,N/A,+91 84240 50505,https://www.google.com/maps/search/?api=1&query=The%20Camp&query_place_id=ChIJAQAAMPHI5zsRQl3KauBzdvg,Restaurent
+98,India,Delhi,Hare Krishna Hotel,N/A,N/A,N/A,N/A,+91 98191 34000,https://www.google.com/maps/search/?api=1&query=Hare%20Krishna%20Hotel&query_place_id=ChIJbaRaKvDI5zsRZTWRuCZ0LQw,Restaurent
+99,India,Delhi,Turning Point Fine Dine,N/A,N/A,N/A,N/A,+91 91366 01924,https://www.google.com/maps/search/?api=1&query=Turning%20Point%20Fine%20Dine&query_place_id=ChIJ1Q2ZxPbI5zsRaLuF0pfZK4A,Restaurent
+100,India,Delhi,Geeta Vihar,N/A,N/A,N/A,N/A,+91 70392 98319,https://www.google.com/maps/search/?api=1&query=Geeta%20Vihar&query_place_id=ChIJ2dvszvbJ5zsRirDW27akpgM,Restaurent
+101,India,Delhi,Santosh Lunch Home,N/A,N/A,N/A,N/A,+91 77380 43033,https://www.google.com/maps/search/?api=1&query=Santosh%20Lunch%20Home&query_place_id=ChIJ__mHav_I5zsRf4FWVTs7s-k,Restaurent
+102,India,Delhi,Thotrin Cafe,N/A,N/A,N/A,N/A,+91 96190 67860,https://www.google.com/maps/search/?api=1&query=Thotrin%20Cafe&query_place_id=ChIJkVMuPfHI5zsRNuU6Q-hxweM,Restaurent
+103,India,Delhi,JOLLYBEE FAST FOOD,N/A,N/A,N/A,N/A,+91 77150 99994,https://www.google.com/maps/search/?api=1&query=JOLLYBEE%20FAST%20FOOD&query_place_id=ChIJmZR-GUzJ5zsRfRWBFnn5MCw,Restaurent
+104,India,Delhi,Serai family Skydine,N/A,N/A,N/A,N/A,+91 77384 83653,https://www.google.com/maps/search/?api=1&query=Serai%20family%20Skydine&query_place_id=ChIJWwwMyMzJ5zsRGPPrnAQuSw8,Restaurent
+105,India,Delhi,Pop Tates BKC,N/A,N/A,N/A,N/A,+91 74000 11045,https://www.google.com/maps/search/?api=1&query=Pop%20Tates%20BKC&query_place_id=ChIJ879jUBnJ5zsRu_Q5ylN3NaA,Restaurent
+106,India,Delhi,Urban Tadka Kurla,N/A,N/A,N/A,N/A,+91 70451 21307,https://www.google.com/maps/search/?api=1&query=Urban%20Tadka%20Kurla&query_place_id=ChIJYyxce33I5zsRnAkAi1bQxbg,Restaurent
+107,India,Delhi,ARABIAN MANDI HOUSE,N/A,N/A,N/A,N/A,+91 84336 25907,https://www.google.com/maps/search/?api=1&query=ARABIAN%20MANDI%20HOUSE&query_place_id=ChIJQeTpl_TJ5zsR5K0Gkzlc320,Restaurent
+108,India,Delhi,Janta Lunch Home Bar and Restaurant,N/A,N/A,N/A,N/A,+91 81082 08624,https://www.google.com/maps/search/?api=1&query=Janta%20Lunch%20Home%20Bar%20and%20Restaurant&query_place_id=ChIJ_WTvRIjI5zsRqUtVT0KVIuM,Restaurent
+109,India,Delhi,Cafe Sahil,N/A,N/A,N/A,N/A,+91 84520 51330,https://www.google.com/maps/search/?api=1&query=Cafe%20Sahil&query_place_id=ChIJr98yuonI5zsRkofR2EAo-1Y,Restaurent
+110,India,Delhi,Baba Falooda & Chat Corner,N/A,N/A,N/A,N/A,+91 72728 10404,https://www.google.com/maps/search/?api=1&query=Baba%20Falooda%20%26%20Chat%20Corner&query_place_id=ChIJR6_GhW_J5zsRggHb7LrTgTU,Restaurent
+111,India,Delhi,Shon Shon House,N/A,N/A,N/A,N/A,+91 99303 17695,https://www.google.com/maps/search/?api=1&query=Shon%20Shon%20House&query_place_id=ChIJ40QGXjbJ5zsR9Pfhbj2TrFs,Restaurent
+112,India,Delhi,Al Zaika Dhaba Kurla,N/A,N/A,N/A,N/A,+91 79000 05586,https://www.google.com/maps/search/?api=1&query=Al%20Zaika%20Dhaba%20Kurla&query_place_id=ChIJ_Zp1PCHJ5zsRauxJJb8ue50,Restaurent
+113,India,Delhi,RM Restaurant,N/A,N/A,N/A,N/A,+91 77000 32652,https://www.google.com/maps/search/?api=1&query=RM%20Restaurant&query_place_id=ChIJRQhGwDHJ5zsR2r2JTsRLIAI,Restaurent
+,,,,,,,,,,
+,,,22 May 2026,,,,,,,
+114,India,Lucknow,Cable House,N/A,N/A,N/A,N/A,5224015685,https://maps.app.goo.gl/V164w4EeUXkCWYbt9?g_st=ic,Services 
+115,India,Lucknow,Repair Dot Com,N/A,N/A,N/A,N/A,9696220517,"https://maps.google.com?q=House%20number%2038,%20Repair%20Dot%20Com,%20chodhari%20gadhiyya,%20medical%20collge,%20Jawahar%20Nagar,%20Chowk,%20Lucknow,%20Uttar%20Pradesh%20226003&ftid=0x399bfd18fec3f849:0xdb7e08ff4fc30dbd&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100799877,94286869&g_st=ic",Services
+116,India,Lucknow,SR services Lucknow,N/A,N/A,N/A,N/A,8887750076,https://maps.app.goo.gl/CcNnffBNvSTNo3Dk6?g_st=ic,Services 
+117,India,Lucknow,A to Z Repair,N/A,N/A,N/A,N/A,9569500455,https://maps.app.goo.gl/5L2sL6sTRbowWvFY7?g_st=ic,Services
+118,India,Lucknow,Sky Service centre ,N/A,N/A,N/A,N/A,9005501915,https://maps.app.goo.gl/UwqsZrnzcvbHpEw89?g_st=ic,Services
+119,India,Lucknow,Quantum coaching institute ,N/A,N/A,N/A,N/A,9839753258,https://maps.app.goo.gl/cLL25JJvr9t2idFu6?g_st=ic,Coaching
+120,India,Lucknow,SS coaching,N/A,N/A,N/A,N/A,9839065533,https://maps.app.goo.gl/Ko4yBSYoJpXfShsu9?g_st=ic,Coaching
+121,India,Lucknow,Eklavya Institute ,N/A,N/A,N/A,N/A,9918849292,https://maps.app.goo.gl/t15p4vtW9Zwhro3j6?g_st=ic,Coaching
+122,India,Lucknow,Button House,N/A,N/A,N/A,N/A,7007556622,"https://maps.google.com?q=Button%20House,%2046,%20Halwasiya%20market,%20Hazratganj,%20Lucknow,%20Uttar%20Pradesh%20226001&ftid=0x399bfda79fc50fb7:0x77a16b18cd4a1999&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100799877,94286869&g_st=ic",Services 
+123,India,Lucknow,Small business promotion ,N/A,N/A,N/A,N/A,8960229991,https://maps.app.goo.gl/MrfPgGqHSMYdimHx6?g_st=ic,Services
+124,India,Lucknow,Shree paper house ,N/A,N/A,N/A,N/A,5224010561,https://maps.app.goo.gl/3qS1niktoJRP5hSp7?g_st=ic,Services
+125,India,Lucknow,Raju Agrawal Sarraf,N/A,N/A,N/A,N/A,N/A,https://maps.app.goo.gl/RL6TnkoT1GZhvtK28?g_st=ic,Services
+126,India,Lucknow,Herbs and kirana suppliers ,N/A,N/A,N/A,N/A,N/A,https://maps.app.goo.gl/4JeExK5fpm2LzSEQA?g_st=ic,Grocery store
+127,India,Lucknow,Khazana complex,N/A,N/A,N/A,N/A,N/A,"https://maps.google.com?q=Khazana%20Complex,%20Sector%20K,%20Ashiyana,%20Lucknow,%20Uttar%20Pradesh%20226012&ftid=0x399bfc0c92658b25:0xe98ecf4dda0dca07&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100799877,94286869&g_st=ic",Grocery store
+128,India,Lucknow,Bajaj world ,N/A,N/A,N/A,N/A,9129777370,https://maps.app.goo.gl/T84ZdA4k3VFo1CyM9?g_st=ic,Services
+129,India,Lucknow,Dubagga AC Repair Service ,N/A,N/A,N/A,N/A,8188814642,https://maps.app.goo.gl/52iQeYXFtNXY5Zv69?g_st=ic,Services
+130,India,Lucknow,Gomti Nagar Appliance Repair,N/A,N/A,N/A,N/A,9569500455,https://maps.app.goo.gl/VyxEhwUmvYH5wvgq5?g_st=ic,Services
+,,,,,,,,,,Coaching
+131,India,Lucknow,Naza Computer Market Coaching ,N/A,N/A,N/A,N/A,9839065533,"https://maps.google.com?q=Shop%20No%209,%20Ground%20Floor,%20iNASA%20Computer%20Store,%20Basant%20Building,%20behind%20Basant%20Cinema,%20Sushanpura,%20Nagar%20Nigam%20Market,%20Lalbagh,%20Lucknow,%20Uttar%20Pradesh%20226001&ftid=0x399bfda7c1b0bd11:0xa903cbfe33466cae&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100799877,94286869&g_st=ic",Restaurant
+132,India,Lucknow,Milan A Speciality Restaurant ,N/A,N/A,N/A,N/A,9936888000,https://maps.app.goo.gl/mFgk173FutVnJPiz6?g_st=ic,Fitness
+133,India,Lucknow,Neo Fitness,N/A,N/A,N/A,N/A,1800 309 5609,"https://maps.google.com?q=Plot%20No.5,%20Neo%20Fitnes%20-%20Best%20Gym%20in%20Lucknow%20%7C%20Best%20Fitness%20Centre%20in%20Lucknow,%20STW%20Infinity,%206th%20Floor,%20Sector%20E,%20Aliganj,%20Lucknow,%20Uttar%20Pradesh%20226024&ftid=0x399957fbe40b372f:0xc5a3dea4fdd9ae63&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100799877,94286869&g_st=ic",Restaurent 
+134,India,Lucknow,Baati Chokha Restaurant ,N/A,N/A,N/A,N/A,5224005642,https://maps.app.goo.gl/ZFxQE5ewc4wVKhQ96?g_st=ic,Fitness
+135,India,Lucknow,Anytime Fitness,N/A,N/A,N/A,N/A,7080903539,https://maps.app.goo.gl/uFRZ95yrbHuRCkin9?g_st=ic,Restaurent
+136,India,Lucknow,Moti Mahal Delux,N/A,N/A,N/A,N/A,5224048101,https://maps.app.goo.gl/Gz3mJJ8K1uETReEE7?g_st=ipc,Restaurent
+137,India,Lucknow,Owl cafe ,N/A,N/A,N/A,N/A,8400000042,https://maps.app.goo.gl/XzqhTqRgzzZcgV2c9?g_st=ic,Store
+138,India,Lucknow,Mulethi Herb Store,N/A,N/A,N/A,N/A,N/A,https://maps.app.goo.gl/JvBeSgJv64NY5ryY7?g_st=ic,Store
+,,,,,,,,,,
+,,,,,,,,,,
+139,India,Delhi,Anytime Fitness,N/A,N/A,N/A,N/A,9654585585,https://maps.app.goo.gl/9YgTvTGXu14f3m5c8?g_st=ic,Gym
+140,India,Delhi,Component Fitness,N/A,N/A,N/A,N/A,8800117699,https://maps.app.goo.gl/H9W8sT9dFdFzoLWN9?g_st=ic,Gym 
+141,India,Delhi,Delhi fitness gym,N/A,N/A,N/A,N/A,9999882070,https://maps.app.goo.gl/kTeWJX3PE36WM5WK7?g_st=ic,Gym
+142,India,Delhi,Good life fitness,N/A,N/A,N/A,N/A,9811064909,https://maps.app.goo.gl/J3H1kbKCQwDFWmSo6?g_st=ic,Gym
+143,India,Delhi,Floricall,N/A,N/A,N/A,N/A,9818309038,https://maps.app.goo.gl/yHK8m5H6SHfVgdJC7?g_st=ic,Florist
+144,India,Delhi,Shri Ramji Store,N/A,N/A,N/A,N/A,9560574262,https://maps.app.goo.gl/U2kz4xnrdJvfvRc6A?g_st=ic,Store
+145,India,Delhi,Suvidhaa Point,N/A,N/A,N/A,N/A,8470841313,https://maps.app.goo.gl/oWHkqEJHMqukjukM8?g_st=ic,Store
+146,India,Delhi,Mobile samadhaan,N/A,N/A,N/A,N/A,9582561927,https://maps.app.goo.gl/yRMZ8kLG6XZb8Lus5?g_st=ic,Services
+147,India,Delhi,Ishar Dass Seth Sons,N/A,N/A,N/A,N/A,1123556699,https://maps.app.goo.gl/8NaDTcwVr6c2zRjz7?g_st=ic,Services
+148,India,Delhi,38 Barracks Restaurant and Bar- Connaught Place,N/A,N/A,N/A,N/A,8800661263,https://maps.app.goo.gl/XqfeXZxicH3s9RC49?g_st=ic,Restaurent 
+149,India,Delhi,Tamra Restaurant ,N/A,N/A,N/A,N/A,9599787836,https://maps.app.goo.gl/g5WyNttU61j1rKBt7?g_st=ic,Restaurent 
+150,India,Delhi,Delhi 'O' Delhi,N/A,N/A,N/A,N/A,1143663302,https://maps.app.goo.gl/T41L8qRV3ypdWD25A?g_st=ic,Restaurent 
+151,India,Delhi,Saravana Bhavan,N/A,N/A,N/A,N/A,1123340971,https://maps.app.goo.gl/71AoiDFF5Zz6S6RGA?g_st=ic,Restaurent 
+152,India,Delhi,The Shop,N/A,N/A,N/A,N/A,7978746254,https://maps.app.goo.gl/S6wp41UNn71aHC6q7?g_st=ic,Services
+153,India,Delhi,Bright Directories,N/A,N/A,N/A,N/A,7838640414,https://maps.app.goo.gl/y2GTXhHKT7CB9yWX8?g_st=ic,Services
+154,India,Delhi,Sarthak Break time,N/A,N/A,N/A,N/A,9599800804,https://maps.app.goo.gl/DxjRqqpAPm2QieEPA?g_st=ic,Restaurent 
+155,India,Delhi,South Indian hair cutting salon,N/A,N/A,N/A,N/A,9641111188,https://maps.app.goo.gl/gDaTM8DMt1z7gsRL7?g_st=ic,Salon
+156,India,Delhi,Asian agencies suppliers ,N/A,N/A,N/A,N/A,8744888994,https://maps.app.goo.gl/n5SxearS6xuTGcc1A?g_st=ic,Stationary 
+157,India,Delhi,Rajindra electronics,N/A,N/A,N/A,N/A,9899969335,https://maps.app.goo.gl/7trBxM4PDtTj1ntV8?g_st=ic,Services
+158,India,Delhi,Acenet computers,N/A,N/A,N/A,N/A,9654585585,https://maps.app.goo.gl/382eQu4eLzL5R5jv8?g_st=ic,Services
+159,India,Gujarat,Bruh Cafe,N/A,N/A,N/A,N/A,+91 63512 18406,https://www.google.com/maps/place/?q=place_id:0x3bdfd18cd5f30d77%3A0x4bc88cd4b3b8a57d,Restaurent 
+160,India,Gujarat,Nilkanth farshan Gar,N/A,N/A,N/A,N/A,+91 94271 30171,https://www.google.com/maps/place/?q=place_id:0x3be02368ae4249c5%3A0x4fafcfad7459afd1,Restaurent 
+161,India,Gujarat,Jay Bhavani Hotel,N/A,N/A,N/A,N/A,+91 96377 15858,https://www.google.com/maps/place/?q=place_id:0x3be02f61ff8dc9a3%3A0xba43aa27e524c362,Restaurent 
+162,India,Gujarat,Santkrupa Restaurant,N/A,N/A,N/A,N/A,+91 98984 62468,https://www.google.com/maps/place/?q=place_id:0x3be1ff6a7e6b7361%3A0x86be3b83bc81b951,Restaurent 
+163,India,Gujarat,Bismillah Hotel,N/A,N/A,N/A,N/A,+91 99848 04178,https://www.google.com/maps/place/?q=place_id:0x3be02fd36043cd71%3A0x3e04ce866ed85a3a,Restaurent 
+164,India,Gujarat,Pop's gadhada,N/A,N/A,N/A,N/A,+91 80806 57010,https://www.google.com/maps/place/?q=place_id:0x3958c1cf0bd0d46d%3A0x4b5679b7020b79d,Restaurent 
+165,USA,City,FlexFit Gym ,N/A,N/A,N/A,N/A,212-555-1844,https://maps.app.goo.gl/z5gKWVnSTxupdjHd9?g_st=ic,Gym
+166,USA,City,Urban Bites Cafe ,N/A,N/A,N/A,N/A,310-555-7721,https://maps.app.goo.gl/KFDw2KZMCyyrcxcw5?g_st=ic,Cafe
+167,USA,City,QuickFix Mobile Store,N/A,N/A,N/A,N/A,646-555-9033,https://maps.app.goo.gl/NUaspZqBsmKBin1F6?g_st=ic,Service
+168,USA,City,Healthy Life Fitness,N/A,N/A,N/A,N/A,415-555-2288,https://maps.app.goo.gl/UeBX2mjBU91MqhmWA?g_st=ic,Gym
+169,USA,City,Sunrise Grocery Mart,N/A,N/A,N/A,N/A,305-555-6712,https://maps.app.goo.gl/XPzHYVDFFqkzK4zq6?g_st=ic,Grocery Mart
+,,,,,,,,,,
+,,,,,,,,,,
+170,India,Gujarat,Satluj Hotel,N/A,N/A,N/A,N/A,+91 94263 53473,https://www.google.com/maps/place/?q=place_id:0x395fc3d514210e21%3A0x15da3da52f9ea779,Restaurent
+171,India,Gujarat,Shree Khodiyar Kathiyawadi Dhaba,N/A,N/A,N/A,N/A,+91 97242 11602,https://www.google.com/maps/place/?q=place_id:0x395fe943a79c2281%3A0x2f8bf29996aa9eb5,Restaurent
+172,India,Gujarat,MAHADEV Multi cuisine restaurant,N/A,N/A,N/A,N/A,+91 96016 87071,https://www.google.com/maps/place/?q=place_id:0x3be0cde1242311c5%3A0xa78079f5e091dc69,Restaurent
+173,India,Gujarat,Rajaram Restaurant,N/A,N/A,N/A,N/A,+91 98987 80347,https://www.google.com/maps/place/?q=place_id:0x395fc3d3cecb4cc1%3A0x845d491280418282,Restaurent
+174,India,Gujarat,AMBICA RESTAURANT,N/A,N/A,N/A,N/A,+91 88667 84411,https://www.google.com/maps/place/?q=place_id:0x395fc3b9e2718771%3A0x8aab84531fa732e4,Restaurent
+175,India,Gujarat,ક્રિષ્ના ચાઈનીઝ એન્ડ પંજાબી,N/A,N/A,N/A,N/A,+91 73835 87774,https://www.google.com/maps/place/?q=place_id:0x3be05baf031d41e1%3A0x371c78a141438125,Restaurent
+176,India,Gujarat,Baroda Restaurant And Fast Food,N/A,N/A,N/A,N/A,+91 98796 21555,https://www.google.com/maps/place/?q=place_id:0x395fc188060ca8db%3A0x24d48e2fb445fa6f,Restaurent
+177,India,Gujarat,Nahari Canteen,N/A,N/A,N/A,N/A,+91 97267 51476,https://www.google.com/maps/place/?q=place_id:0x3bde2726a39e47ad%3A0xdf5ce3c16de73c6,Restaurent
+178,India,Gujarat,Gokul Dining hall Veg Restaurant,N/A,N/A,N/A,N/A,+91 78782 52143,https://www.google.com/maps/place/?q=place_id:0x3be05b003d2fe7f9%3A0xaf1468da306d671b,Restaurent
+179,India,Gujarat,Saurastra restaurant,N/A,N/A,N/A,N/A,+91 78028 20015,https://www.google.com/maps/place/?q=place_id:0x395fc31ec28e0f6b%3A0xba396ec15c820575,Restaurent
+180,India,Gujarat,SK DINING HALL HOTEL,N/A,N/A,N/A,N/A,+91 95582 40223,https://www.google.com/maps/place/?q=place_id:0x3bde3d77b9f93af5%3A0x11548c5ec1427ecc,Restaurent
+181,India,Gujarat,Sagar Dhaba Family Restaurant,N/A,N/A,N/A,N/A,+91 97251 38348,https://www.google.com/maps/place/?q=place_id:0x3be05b332510025f%3A0x6f794c28aab2792a,Restaurent
+182,India,Gujarat,Durga Nasta House,N/A,N/A,N/A,N/A,+91 79841 64398,https://www.google.com/maps/place/?q=place_id:0x395fc220e9c66c1d%3A0x4f236c82ef47d836,Restaurent
+183,India,Gujarat,Nawab Family Dhaba,N/A,N/A,N/A,N/A,+91 96624 96920,https://www.google.com/maps/place/?q=place_id:0x3be0ce7ff5ccd8b5%3A0x8b006985c3ce76bc,Restaurent
+184,India,Gujarat,Midnight Chicken,N/A,N/A,N/A,N/A,+91 99747 86382,https://www.google.com/maps/place/?q=place_id:0x3be05bc0cd17045f%3A0x2a9c8c5713cce9b,Restaurent
+185,India,Gujarat,MAA SUBHADRA RESTAURANT,N/A,N/A,N/A,N/A,+91 63512 90837,https://www.google.com/maps/place/?q=place_id:0x395fc325649ead01%3A0x966029d980c05e70,Restaurent
+186,India,Gujarat,the village restaurant,N/A,N/A,N/A,N/A,+91 90165 30906,https://www.google.com/maps/place/?q=place_id:0x395fe8436703fa9f%3A0x151adfab903e1aa1,Restaurent
+187,India,Gujarat,Om Restaurant,N/A,N/A,N/A,N/A,+91 78190 90190,https://www.google.com/maps/place/?q=place_id:0x3be05b005ebc926f%3A0x6c9aca0df4b7bb19,Restaurent
+188,India,Gujarat,Shreenathji Restaurant,N/A,N/A,N/A,N/A,+91 92765 53150,https://www.google.com/maps/place/?q=place_id:0x3be04f3a54b536b3%3A0xe0d34f0f02064fa1,Restaurent
+189,India,Gujarat,Mama omlette chicken family restaurant,N/A,N/A,N/A,N/A,+91 87804 65812,https://www.google.com/maps/place/?q=place_id:0x3be05b31a3509757%3A0x8109c24ac429355b,Restaurent
+190,India,Gujarat,Tasty corner,N/A,N/A,N/A,N/A,+91 90236 99926,https://www.google.com/maps/place/?q=place_id:0x3be0cdb6ef1f4053%3A0x533513a835f1e934,Restaurent
+191,India,Gujarat,Rajwadi Dhaba,N/A,N/A,N/A,N/A,+91 97378 42060,https://www.google.com/maps/place/?q=place_id:0x3be05b12aece0611%3A0x575bf6143be60016,Restaurent
+192,India,Gujarat,Nanawadi Chicken,N/A,N/A,N/A,N/A,+91 99046 64343,https://www.google.com/maps/place/?q=place_id:0x3be05998b0bc545f%3A0x28fc60e6fdfa02cc,Restaurent
+193,India,Gujarat,Grilly Mr.Sandwich,N/A,N/A,N/A,N/A,+91 99796 29990,https://www.google.com/maps/place/?q=place_id:0x3be05bb20da38b33%3A0x8bd4bc6a3ba6d6f7,Restaurent
+193,India,Gujarat,National Restaurant Vapi,N/A,N/A,N/A,N/A,+91 99042 44429,https://www.google.com/maps/place/?q=place_id:0x3be0cfcb77802b57%3A0xf2cfaafb55d1b711,Restaurent
+194,USA,City,Cosita Rica Vermont Square,N/A,N/A,N/A,N/A,(323) 840-9669,https://www.google.com/maps/search/?api=1&query=Cosita%20Rica%20Vermont%20Square&query_place_id=ChIJ-X9lborJwoARHw7AdC_hUtc,Restaurent
+195,USA,City,Empieza Tu Dia Kon Huevos,N/A,N/A,N/A,N/A,(213) 210-4192,https://www.google.com/maps/search/?api=1&query=Empieza%20Tu%20Dia%20Kon%20Huevos&query_place_id=ChIJCyhe1Wm3woARKufempUMnZk,Restaurent
+196,USA,City,Jino's Pars - Persian restaurant Los Angeles,N/A,N/A,N/A,N/A,(310) 645-6666,https://www.google.com/maps/search/?api=1&query=Jino's%20Pars%20-%20Persian%20restaurant%20Los%20Angeles&query_place_id=ChIJv2mANS63woARUyNeJbJehW4,Restaurent
+197,USA,City,Sakura Japanese Restaurant & Sushi Bar,N/A,N/A,N/A,N/A,(310) 822-7790,https://www.google.com/maps/search/?api=1&query=Sakura%20Japanese%20Restaurant%20%26%20Sushi%20Bar&query_place_id=ChIJ46_3-HG6woARcsGxXVJhqoo,Restaurent
+198,USA,City,K-STOP,N/A,N/A,N/A,N/A,(818) 488-1359,https://www.google.com/maps/search/?api=1&query=K-STOP&query_place_id=ChIJda24SZCbwoAR4_tcCeSBCmI,Restaurent
+,,,,,,,,,,
+,,,,,,,,,,
+199,India,Gujarat,Jay Gujrat Bhajiya House,N/A,N/A,N/A,N/A,+91 94293 37347,https://www.google.com/maps/place/?q=place_id:0x3bdffb7781df610f%3A0xaa2d4e019ee59af1,Restaurent
+200,India,Gujarat,Shri Nityam dinning & caterers,N/A,N/A,N/A,N/A,+91 98253 24198,https://www.google.com/maps/place/?q=place_id:0x395f07357dcb1c11%3A0x553e1ac0514232a2,Restaurent
+201,India,Gujarat,Pravin Omlet Centre,N/A,N/A,N/A,N/A,+91 63532 73771,https://www.google.com/maps/place/?q=place_id:0x395f07b084b7ec0d%3A0xab13a8f54a516d40,Restaurent
+202,India,Gujarat,Rajwadu Family Restaurant,N/A,N/A,N/A,N/A,+91 99980 48088,https://www.google.com/maps/place/?q=place_id:0x3bdffbdd9bd24667%3A0x4ceba3af1be074ab,Restaurent
+203,India,Gujarat,Krishnna Nasta House,N/A,N/A,N/A,N/A,+91 95580 26259,https://www.google.com/maps/place/?q=place_id:0x3958c1feff0a7ed3%3A0x36da797eba985dd0,Restaurent
+204,India,Gujarat,"Zorko, Songadh",N/A,N/A,N/A,N/A,+91 75675 62099,https://www.google.com/maps/place/?q=place_id:0x3bdfd160b98a07b7%3A0xa213d0fb72cb7938,Restaurent
+205,India,Gujarat,Satpuda van bhojnalaya,N/A,N/A,N/A,N/A,+91 97127 54232,https://www.google.com/maps/place/?q=place_id:0x3bdffb1ba692ae89%3A0x6e794a721441443,Restaurent
+206,India,Gujarat,Assal Gajali Family Restaurant & Bar,N/A,N/A,N/A,N/A,+91 98230 24545,https://www.google.com/maps/place/?q=place_id:0x3be71167aef78a49%3A0x79718085761f9aca,Restaurent
+207,India,Gujarat,Rangoli Restaurant & Pan,N/A,N/A,N/A,N/A,+91 96014 14277,https://www.google.com/maps/place/?q=place_id:0x3be1ffbd836870e3%3A0xd9fe1246dbfcdb2d,Restaurent
+208,India,Gujarat,Bhagwati Garden Restaurant,N/A,N/A,N/A,N/A,+91 96245 01765,https://www.google.com/maps/place/?q=place_id:0x3be1ff93edbbeced%3A0x4df1a34f47a91e3d,Restaurent
+209,India,Gujarat,Gayatri Khaman,N/A,N/A,N/A,N/A,+91 94271 88652,https://www.google.com/maps/place/?q=place_id:0x3be02f1c19181aa5%3A0x9636796497989a99,Restaurent
+210,India,Gujarat,Rameshwar Bhojnalay & Trivedi Caterers,N/A,N/A,N/A,N/A,+91 79840 60197,https://www.google.com/maps/place/?q=place_id:0x3bdffb3d9399f935%3A0x64c4c04e570312a7,Restaurent
+211,India,Gujarat,Gokul Restaurant,N/A,N/A,N/A,N/A,+91 94299 69696,https://www.google.com/maps/place/?q=place_id:0x3be1ffbd856f98ad%3A0x2afa0efacb5b2597,Restaurent
+212,India,Gujarat,SANGITA RESTAURANT,N/A,N/A,N/A,N/A,+91 90814 40018,https://www.google.com/maps/place/?q=place_id:0x3bde17584213003b%3A0xb1282d4bcc8efd89,Restaurent
+213,India,Gujarat,SAI RESTAURANT,N/A,N/A,N/A,N/A,+91 99799 15255,https://www.google.com/maps/place/?q=place_id:0x3bde2191c4dee97b%3A0xa08dd51adc8dcf6b,Restaurent
+214,India,Gujarat,Deep Restaurant,N/A,N/A,N/A,N/A,+91 96625 87592,https://www.google.com/maps/place/?q=place_id:0x3bde3d57d8e2d349%3A0xa6e2879f0b2bce6b,Restaurent
+215,India,Gujarat,Chaudhari nonveg restaurant,N/A,N/A,N/A,N/A,+91 94286 13842,https://www.google.com/maps/place/?q=place_id:0x3bde3d0001c4c9a1%3A0x938d57ed7affd2da,Restaurent
+216,India,Gujarat,Chetana restaurant,N/A,N/A,N/A,N/A,+91 97252 47551,https://www.google.com/maps/place/?q=place_id:0x395fc220e4cbbe57%3A0x9f9115a2c2e84700,Restaurent
+217,India,Gujarat,The New Satluj restaurant,N/A,N/A,N/A,N/A,+91 94263 53528,https://www.google.com/maps/place/?q=place_id:0x395fc3679c65c57d%3A0xcb2121e74d9e402e,Restaurent
+218,India,Gujarat,Royal Restaurant Por,N/A,N/A,N/A,N/A,+91 83207 88330,https://www.google.com/maps/place/?q=place_id:0x395fc1ec3a99a657%3A0x7ad61d2572917e1d,Restaurent
+219,India,Gujarat,Satluj Hotel,N/A,N/A,N/A,N/A,+91 94263 53473,https://www.google.com/maps/place/?q=place_id:0x395fc3d514210e21%3A0x15da3da52f9ea779,Restaurent
+220,India,Gujarat,Shree Khodiyar Kathiyawadi Dhaba,N/A,N/A,N/A,N/A,+91 97242 11602,https://www.google.com/maps/place/?q=place_id:0x395fe943a79c2281%3A0x2f8bf29996aa9eb5,Restaurent
+221,India,Gujarat,MAHADEV Multi cuisine restaurant,N/A,N/A,N/A,N/A,+91 96016 87071,https://www.google.com/maps/place/?q=place_id:0x3be0cde1242311c5%3A0xa78079f5e091dc69,Restaurent
+222,India,Gujarat,Rajaram Restaurant,N/A,N/A,N/A,N/A,+91 98987 80347,https://www.google.com/maps/place/?q=place_id:0x395fc3d3cecb4cc1%3A0x845d491280418282,Restaurent
+223,India,Gujarat,AMBICA RESTAURANT,N/A,N/A,N/A,N/A,+91 88667 84411,https://www.google.com/maps/place/?q=place_id:0x395fc3b9e2718771%3A0x8aab84531fa732e4,Restaurent
+224,USA,City,Vim Restaurant,N/A,N/A,N/A,N/A,(213) 312-7793,https://www.google.com/maps/search/?api=1&query=Vim%20Restaurant&query_place_id=ChIJyTbGC9iQwoARHizgvHD7kUw,Restaurent
+225,USA,City,Hot Chile Mexican Food,N/A,N/A,N/A,N/A,(818) 832-9983,https://www.google.com/maps/search/?api=1&query=Hot%20Chile%20Mexican%20Food&query_place_id=ChIJhzW8S7yawoARBWSRmm5CfEk,Restaurent
+226,USA,City,El Michoacano Restaurant,N/A,N/A,N/A,N/A,(818) 896-9947,https://www.google.com/maps/search/?api=1&query=El%20Michoacano%20Restaurant&query_place_id=ChIJifnkM6aRwoARtCGyWCtr8RM,Restaurent
+227,USA,City,Balboa Thai Food,N/A,N/A,N/A,N/A,(818) 832-4786,https://www.google.com/maps/search/?api=1&query=Balboa%20Thai%20Food&query_place_id=ChIJP-lhDrOawoARSZzAETNY2LI,Restaurent
+228,USA,City,Ocha Classic Restaurant,N/A,N/A,N/A,N/A,(818) 892-7838,https://www.google.com/maps/search/?api=1&query=Ocha%20Classic%20Restaurant&query_place_id=ChIJjxW1ONuQwoARJZRAeTclo6c,Restaurent
+,,,,,,,,,,
+,,,,,,,,,,
+229,India,Mumbai,Al-Fakhar Restaurant,N/A,N/A,N/A,N/A,+91 99306 77610,https://www.google.com/maps/search/?api=1&query=Al-Fakhar%20Restaurant&query_place_id=ChIJ8X66kUnJ5zsRhi_kO0y4QAM,Restaurant
+230,India,Mumbai,Om Sai Restaurant,N/A,N/A,N/A,N/A,+91 98207 11014,https://www.google.com/maps/search/?api=1&query=Om%20Sai%20Restaurant&query_place_id=ChIJBT391s_J5zsRuFE684porPg,Restaurant
+231,India,Mumbai,Mauli Restaurant,N/A,N/A,N/A,N/A,+91 70391 70047,https://www.google.com/maps/search/?api=1&query=Mauli%20Restaurant&query_place_id=ChIJFy1alY3J5zsR0Xd6eadu5Do,Restaurant
+232,India,Mumbai,ChaCha Kaka's Kitchen,N/A,N/A,N/A,N/A,+91 98691 31496,https://www.google.com/maps/search/?api=1&query=ChaCha%20Kaka's%20Kitchen&query_place_id=ChIJlwI6rw7J5zsRldzf63tvSI8,Restaurant
+233,India,Mumbai,Tuki Asian,N/A,N/A,N/A,N/A,+91 93265 07228,https://www.google.com/maps/search/?api=1&query=Tuki%20Asian&query_place_id=ChIJbemmafzJ5zsRptJnsGm6A-E,Restaurant
+234,India,Mumbai,Shree Chakra Restaurant And Bar,N/A,N/A,N/A,N/A,+91 22 2665 9523,https://www.google.com/maps/search/?api=1&query=Shree%20Chakra%20Restaurant%20And%20Bar&query_place_id=ChIJPRF6n__I5zsRbq9Thhc8q1A,Restaurant
+235,India,Mumbai,A1 Darbar Restaurant,N/A,N/A,N/A,N/A,+91 75060 30382,https://www.google.com/maps/search/?api=1&query=A1%20Darbar%20Restaurant&query_place_id=ChIJGwAAAJPI5zsRGOnHWxBNKJQ,Restaurant
+236,India,Mumbai,Turkey Junction Restaurant,N/A,N/A,N/A,N/A,+91 89764 60010,https://www.google.com/maps/search/?api=1&query=Turkey%20Junction%20Restaurant&query_place_id=ChIJX1GIn3zJ5zsRArC5WuPxiVk,Restaurant
+237,India,Mumbai,Zakir Seekh Paratha,N/A,N/A,N/A,N/A,+91 98334 21088,https://www.google.com/maps/search/?api=1&query=Zakir%20Seekh%20Paratha&query_place_id=ChIJ75INjozI5zsRr30X5qXM7Q0,Restaurant
+238,India,Mumbai,Kurla Dhaba,N/A,N/A,N/A,N/A,+91 88790 00661,https://www.google.com/maps/search/?api=1&query=Kurla%20Dhaba&query_place_id=ChIJlQk1iCvJ5zsR-oqXXi7bK24,Restaurant
+239,India,Mumbai,Hotel Darshan,N/A,N/A,N/A,N/A,+91 98674 86860,https://www.google.com/maps/search/?api=1&query=Hotel%20Darshan&query_place_id=ChIJz16E9ojI5zsRQkdi8PCUndM,Restaurant
+240,India,Mumbai,Himalaya Pujabi Hotel,N/A,N/A,N/A,N/A,+91 73044 73016,https://www.google.com/maps/search/?api=1&query=Himalaya%20Pujabi%20Hotel&query_place_id=ChIJyTDSCc7J5zsRfOngb4VNE4E,Restaurant
+241,India,Mumbai,Mughal Flavour Grand,N/A,N/A,N/A,N/A,+91 78668 73786,https://www.google.com/maps/search/?api=1&query=Mughal%20Flavour%20Grand&query_place_id=ChIJF9cP94vI5zsRuXRApnzJYY0,Restaurant
+242,India,Mumbai,Kokan Sagar Resturant,N/A,N/A,N/A,N/A,+91 91371 13592,https://www.google.com/maps/search/?api=1&query=Kokan%20Sagar%20Resturant&query_place_id=ChIJweNCxQDJ5zsRf9ohOgeYlqI,Restaurant
+243,India,Mumbai,Cafe Gulshan,N/A,N/A,N/A,N/A,+91 77109 42356,https://www.google.com/maps/search/?api=1&query=Cafe%20Gulshan&query_place_id=ChIJC2sFGvLI5zsRabjiFiNUQIo,Restaurant
+244,India,Mumbai,Oye Pappe!,N/A,N/A,N/A,N/A,+91 98333 49983,https://www.google.com/maps/search/?api=1&query=Oye%20Pappe!&query_place_id=ChIJG3IZz_DI5zsRUbloGPon2qs,Restaurant
+245,India,Mumbai,Hotel Mahesh Annexe,N/A,N/A,N/A,N/A,+91 98190 08357,https://www.google.com/maps/search/?api=1&query=Hotel%20Mahesh%20Annexe&query_place_id=ChIJzT3TTlXJ5zsRlOZZKuak6Vk,Restaurant
+246,India,Mumbai,Chutney Plus,N/A,N/A,N/A,N/A,+91 84336 60992,https://www.google.com/maps/search/?api=1&query=Chutney%20Plus&query_place_id=ChIJUT7tZC_J5zsRWYkedCCOWnM,Restaurant
+247,India,Mumbai,Alfiya's Family Restaurant,N/A,N/A,N/A,N/A,+91 91375 76009,https://www.google.com/maps/search/?api=1&query=Alfiya's%20Family%20Restaurant&query_place_id=ChIJQU6nZf7J5zsR4o4Fv2Gy92M,Restaurant
+248,India,Mumbai,ANSARI RESTAURANT,N/A,N/A,N/A,N/A,+91 95941 87594,https://www.google.com/maps/search/?api=1&query=ANSARI%20RESTAURANT&query_place_id=ChIJxTE0USjJ5zsRfs2sjT6_ePc,Restaurant
+249,India,Mumbai,Nityanand Restaurant - Pure Veg,N/A,N/A,N/A,N/A,+91 91375 15048,https://www.google.com/maps/search/?api=1&query=Nityanand%20Restaurant%20-%20Pure%20Veg&query_place_id=ChIJRVR9ciHP5zsRpNfoQ2KJjgE,Restaurant
+250,India,Mumbai,Sai Leela Restaurant And Bar,N/A,N/A,N/A,N/A,+91 93721 85446,https://www.google.com/maps/search/?api=1&query=Sai%20Leela%20Restaurant%20And%20Bar&query_place_id=ChIJBxGwUpDI5zsRaCpaooVp01A,Restaurant
+251,India,Mumbai,Royal Falooda & Snacks Corner,N/A,N/A,N/A,N/A,+91 99675 25378,https://www.google.com/maps/search/?api=1&query=Royal%20Falooda%20%26%20Snacks%20Corner&query_place_id=ChIJ8bjEtDPJ5zsR7OG0N-F4HcY,Restaurant
+252,India,Mumbai,TAJ KING SHAWARMA,N/A,N/A,N/A,N/A,+91 80808 94627,https://www.google.com/maps/search/?api=1&query=TAJ%20KING%20SHAWARMA&query_place_id=ChIJGT-kNubJ5zsRoVBINl4OzLg,Restaurant
+253,India,Mumbai,Zam Zam Hotel,N/A,N/A,N/A,N/A,+91 87678 86767,https://www.google.com/maps/search/?api=1&query=Zam%20Zam%20Hotel&query_place_id=ChIJzXzt-IzI5zsR4Uw_QCYG2yY,Restaurant
+254,India,City,The Smash Stand,N/A,N/A,N/A,N/A,(818) 510-5312,https://www.google.com/maps/search/?api=1&query=The%20Smash%20Stand&query_place_id=ChIJ5f0hV_ybwoARUOH0-svG57g,Restaurant
+255,USA,City,Baja Beach Tacos,N/A,N/A,N/A,N/A,(818) 488-9420,https://www.google.com/maps/search/?api=1&query=Baja%20Beach%20Tacos&query_place_id=ChIJUdRsOUObwoARREpiJXE5VgA,Restaurant
+256,USA,City,Seoul Time,N/A,N/A,N/A,N/A,(818) 488-1097,https://www.google.com/maps/search/?api=1&query=Seoul%20Time&query_place_id=ChIJi1-pGACRwoAR7MJqpi64VLM,Restaurant
+257,USA,City,“X” MARKS THE SPOT,N/A,N/A,N/A,N/A,(747) 242-8229,https://www.google.com/maps/search/?api=1&query=%E2%80%9CX%E2%80%9D%20MARKS%20THE%20SPOT&query_place_id=ChIJ9T2OXyibwoARy16GtRsK4aE,Restaurant
+258,USA,City,Flor de fuego restaurant,N/A,N/A,N/A,N/A,(818) 485-5101,https://www.google.com/maps/search/?api=1&query=Flor%20de%20fuego%20restaurant&query_place_id=ChIJdXLZ2n-RwoARkhReX_J-9jA,Restaurant
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+259,India,Indore ,Dr. Manish Jain Physiotherapy,N/A,N/A,N/A,N/A,098270 31804,https://maps.google.com/?q=Dr.+Manish+Jain+Physiotherapy+Indore,Physiotherapy Clinic
+260,India,Indore ,Sai Homeopathic Clinic,N/A,N/A,N/A,N/A,098263 35501,https://maps.google.com/?q=Sai+Homeopathic+Clinic+Vijay+Nagar+Indore,Homeopathy Clinic
+261,India,Indore ,IEMS Indore,N/A,N/A,N/A,N/A,098260 11211,https://maps.google.com/?q=IEMS+Indore+Apollo+Trade+Centre,First Aid Training
+262,India,Indore ,GNC Classes,N/A,N/A,N/A,N/A,097555 58155,https://maps.google.com/?q=GNC+Classes+Bhanwarkua+Indore,Academic Coaching
+263,India,Indore ,Parmanu Medical Institute,N/A,N/A,N/A,N/A,099264 45678,https://maps.google.com/?q=Parmanu+Medical+Institute+Indore,Medical Entrance
+264,India,Indore ,Medwin Nursing Academy,N/A,N/A,N/A,N/A,098267 89012,https://maps.google.com/?q=Medwin+Nursing+Academy+Indore,Nursing Coaching
+265,India,Indore ,Swaraj Coaching Institute,N/A,N/A,N/A,N/A,0731 245 6789,https://maps.google.com/?q=Swaraj+Coaching+Institute+LIG+Indore,Academic Tuition
+266,India,Indore ,Dr. Gupta Skin & Hair,N/A,N/A,N/A,N/A,094250 55123,https://maps.google.com/?q=Dr.+Gupta+Skin+and+Hair+Indore,Skin Clinic
+267,India,Indore ,Creative Computer Training,N/A,N/A,N/A,N/A,098260 22334,https://maps.google.com/?q=Creative+Computer+Training+Sudama+Nagar+Indore,Computer Training
+268,India,Indore ,Success Spoken English,N/A,N/A,N/A,N/A,0731 405 1234,https://maps.google.com/?q=Success+Spoken+English+RNT+Marg+Indore,Spoken English
+269,India,Indore ,Ashirwad Dental Clinic,N/A,N/A,N/A,N/A,098930 11223,https://maps.google.com/?q=Ashirwad+Dental+Clinic+Annapurna+Indore,Dental Clinic
+270,USA,City,El Palacio de los Pepitos,N/A,N/A,N/A,N/A,17028480536,https://maps.app.goo.gl/3dKnmrCyNyivKxfN6,Restaurant
+271,USA,City,Sinaloa Tacos,N/A,N/A,N/A,N/A,17023435472,https://maps.app.goo.gl/q3F4g6EPL8o6jp7i8,Restaurant
+272,USA,City,Iheanacho Obidike,N/A,N/A,N/A,N/A,17024866000,https://maps.app.goo.gl/jm7GTtK3PS3jc6kM9,Restaurant
+273,USA,City,Flavors,N/A,N/A,N/A,N/A,17023990114,https://maps.app.goo.gl/6EdsDzqiiQkBR2e26,Restaurant
+274,USA,City,Tacos Y Tortas Chalio's Las Vegas 24hrs (Chalio’s Las Vegas),N/A,N/A,N/A,N/A,17252041362,https://maps.app.goo.gl/dkEN6ckBVKRR1GzB8,Restaurant
+275,India,Gujarat,Varniraj Restaurant,N/A,N/A,N/A,N/A,9909074524,https://maps.app.goo.gl/pmmEnqMfc2oiJmr38,Restaurant
+276,India,Gujarat,Ravi Food Zone,N/A,N/A,N/A,N/A,8511157100,https://maps.app.goo.gl/ptpLCap4u8gYzfs99,Restaurant
+277,India,Gujarat,Balaji Thal,N/A,N/A,N/A,N/A,9664611027,https://maps.app.goo.gl/gNVccNLqn2dWwXV69,Restaurant
+278,India,Gujarat,Ruso Burger,N/A,N/A,N/A,N/A,9601015959,https://maps.app.goo.gl/vwZLJhgFDpnTg8wQ9,Restaurant
+279,India,Gujarat,Shreenathji Pavbhaji,N/A,N/A,N/A,N/A,9998835209,https://maps.app.goo.gl/T8DKcJZW3QgGafuy6,Restaurant
+280,India,Gujarat,Pandya'z Rasthal,N/A,N/A,N/A,N/A,9624474464,https://maps.app.goo.gl/pxG8PGmxgaAPk1Qt5,Restaurant
+281,India,Gujarat,Vadu Tanu Restaurant,N/A,N/A,N/A,N/A,9426523145,https://maps.app.goo.gl/vcNpVdwCei4368de7,Restaurant
+282,India,Gujarat,Radhe Krishna Restaurant,N/A,N/A,N/A,N/A,9574231229,https://maps.app.goo.gl/x3qErXrNHjPd7sdi9,Restaurant
+283,India,Gujarat,Ganesh Hotel,N/A,N/A,N/A,N/A,9427564799,https://maps.app.goo.gl/RwXDrbK4kNV4Zm4dA,Restaurant
+284,India,Gujarat,Sangeeta Restaurant,N/A,N/A,N/A,N/A,9727192029,https://maps.app.goo.gl/BQsbqKjG9Lzg1Ac99,Restaurant
+285,India,Gujarat,Hotel Saurashtra,N/A,N/A,N/A,N/A,7621017519,https://maps.app.goo.gl/pzX5c7rJBQjKRDQU6,Restaurant
+286,India,Gujarat,Jay Khodiyar Hotel,N/A,N/A,N/A,N/A,9723810112,https://maps.app.goo.gl/14M6BehpXf9Wt7i9A,Restaurant
+287,India,Gujarat,DWARKADHISH RESTAURANT,N/A,N/A,N/A,N/A,9974466696,https://maps.app.goo.gl/37JbFkYqefwzVcxNA,Restaurant
+288,India,Gujarat,Impression Restaurant,N/A,N/A,N/A,N/A,7922862200,https://maps.app.goo.gl/VsNNtjQniNPDuDWu6,Restaurant
+,,,,,,,,,,
+,,,,,,,,,,
+289,India,Mumbai,Durga Hotel (NITHYANDA),N/A,N/A,N/A,N/A,+91 97738 62041,https://www.google.com/maps/search/?api=1&query=Durga%20Hotel%20(NITHYANDA)&query_place_id=ChIJgZEw7xvJ5zsRrT-UDgC-VZY,Restaurant
+290,India,Mumbai,Hotel Food Land Chopsticks,N/A,N/A,N/A,N/A,+91 81082 32200,https://www.google.com/maps/search/?api=1&query=Hotel%20Food%20Land%20Chopsticks&query_place_id=ChIJ1_yrJf_I5zsR3UPOZkkJQXw,Restaurant
+291,India,Mumbai,Stella's kitchen,N/A,N/A,N/A,N/A,+91 96191 99918,https://www.google.com/maps/search/?api=1&query=Stella's%20kitchen&query_place_id=ChIJy5cPHQPJ5zsR1nFTtleEyNc,Restaurant
+292,India,Mumbai,Oh! Mumbai Eats,N/A,N/A,N/A,N/A,+91 97172 57584,https://www.google.com/maps/search/?api=1&query=Oh!%20Mumbai%20Eats&query_place_id=ChIJM3XD-5bJ5zsRsrx9mylaAvQ,Restaurant
+293,India,Mumbai,APNB Zanzanit Mejwani,N/A,N/A,N/A,N/A,+91 81698 99118,https://www.google.com/maps/search/?api=1&query=APNB%20Zanzanit%20Mejwani&query_place_id=ChIJATvxxkLJ5zsRRIAAEAviliM,Restaurant
+294,India,Mumbai,MALABAR RESTAURANT,N/A,N/A,N/A,N/A,+91 75609 94677,https://www.google.com/maps/search/?api=1&query=MALABAR%20RESTAURANT&query_place_id=ChIJtaWhOnXJ5zsRxA8Xk8vimv8,Restaurant
+295,India,Mumbai,Delicacy Restaurant,N/A,N/A,N/A,N/A,+91 86300 57407,https://www.google.com/maps/search/?api=1&query=Delicacy%20Restaurant&query_place_id=ChIJcS3OLfDI5zsRZclmNusz850,Restaurant
+296,India,Mumbai,Hotel Kwality Restaurant And Bar,N/A,N/A,N/A,N/A,+91 93721 24183,https://www.google.com/maps/search/?api=1&query=Hotel%20Kwality%20Restaurant%20And%20Bar&query_place_id=ChIJp96r1v7I5zsRAyvmYwQFzKM,Restaurant
+297,India,Mumbai,Aasra Cafe Star,N/A,N/A,N/A,N/A,+91 72082 70745,https://www.google.com/maps/search/?api=1&query=Aasra%20Cafe%20Star&query_place_id=ChIJPZ3U6ADJ5zsR-EgjEZKSo84,Restaurant
+298,India,Mumbai,Sadguru Sandwich,N/A,N/A,N/A,N/A,+91 98672 26358,https://www.google.com/maps/search/?api=1&query=Sadguru%20Sandwich&query_place_id=ChIJxXWBz__I5zsRCzcUejPqj10,Restaurant
+299,India,Mumbai,Fountain Hotel,N/A,N/A,N/A,N/A,+91 79823 19633,https://www.google.com/maps/search/?api=1&query=Fountain%20Hotel&query_place_id=ChIJSQnKegPJ5zsRAAAAsNqWDQc,Restaurant
+300,India,Mumbai,Nitin Restaurant,N/A,N/A,N/A,N/A,+91 88533 94098,https://www.google.com/maps/search/?api=1&query=Nitin%20Restaurant&query_place_id=ChIJtcslUGrJ5zsRRqGay99huKE,Restaurant
+301,India,Mumbai,Hotel Sadichha (Vakola),N/A,N/A,N/A,N/A,+91 85911 78889,https://www.google.com/maps/search/?api=1&query=Hotel%20Sadichha%20(Vakola)&query_place_id=ChIJt0lxx__I5zsRjpZuO0VYD6Y,Restaurant
+302,India,Mumbai,China Garden,N/A,N/A,N/A,N/A,+91 70455 56551,https://www.google.com/maps/search/?api=1&query=China%20Garden&query_place_id=ChIJlWhMjm2_5zsRQDcVreiD1pk,Restaurant
+303,India,Mumbai,Hotel Nityanand,N/A,N/A,N/A,N/A,+91 83694 57648,https://www.google.com/maps/search/?api=1&query=Hotel%20Nityanand&query_place_id=ChIJq8w0kAPJ5zsRWofsdh1GKns,Restaurant
+304,India,Mumbai,NATIONAL HINDU RESTAURANT,N/A,N/A,N/A,N/A,+91 98330 76692,https://www.google.com/maps/search/?api=1&query=NATIONAL%20HINDU%20RESTAURANT&query_place_id=ChIJJSPhpC3J5zsRU1Or9nhzDZ4,Restaurant
+305,India,Mumbai,The NorthEast Kitchen,N/A,N/A,N/A,N/A,+91 70458 32407,https://www.google.com/maps/search/?api=1&query=The%20NorthEast%20Kitchen&query_place_id=ChIJBeInZMfJ5zsRdur0HOoPH5k,Restaurant
+306,India,Mumbai,Bhagirathi Veg Restaurant,N/A,N/A,N/A,N/A,+91 99872 34088,https://www.google.com/maps/search/?api=1&query=Bhagirathi%20Veg%20Restaurant-,Restaurant
+307,India,Mumbai,Shekhar Family Restaurant,N/A,N/A,N/A,N/A,+91 90821 84505,https://www.google.com/maps/search/?api=1&query=Shekhar%20Family%20Restaurant&query_place_id=ChIJpUDYW_zJ5zsR2CG1rri-TVA,Restaurant
+308,India,Mumbai,Hotel Sudarshan,N/A,N/A,N/A,N/A,+91 22 2668 5417,https://www.google.com/maps/search/?api=1&query=Hotel%20Sudarshan&query_place_id=ChIJb3P0OgDJ5zsRFRyE1jtHEPI,Restaurant
+309,India,Mumbai,Everything Rice,N/A,N/A,N/A,N/A,+91 80974 95305,https://www.google.com/maps/search/?api=1&query=Everything%20Rice&query_place_id=ChIJkWgA_DPJ5zsRro5IvGdh_8U,Restaurant
+310,India,Mumbai,Aditi Restaurant,N/A,N/A,N/A,N/A,+91 90041 74765,https://www.google.com/maps/search/?api=1&query=Aditi%20Restaurant&query_place_id=ChIJ9eHQyN_J5zsR5xFOS18vsaU,Restaurant
+311,India,Mumbai,Hotel Dwarka,N/A,N/A,N/A,N/A,+91 77388 24100,https://www.google.com/maps/search/?api=1&query=Hotel%20Dwarka&query_place_id=ChIJRfKorb_J5zsRJ58DGso8a7w,Restaurant
+312,India,Mumbai,hotel tavakkal & restaurant,N/A,N/A,N/A,N/A,+91 80970 28057,https://www.google.com/maps/search/?api=1&query=hotel%20tavakkal%20%26%20restaurant&query_place_id=ChIJ5SK4gaHJ5zsRS_jHjnxnZGY,Restaurant
+313,India,Mumbai,Mama's Family Restaurant And Bar,N/A,N/A,N/A,N/A,+91 98344 96965,https://www.google.com/maps/search/?api=1&query=Mama's%20Family%20Restaurant%20And%20Bar&query_place_id=ChIJdbRSCozI5zsRsOCXb8fZ5HY,Restaurant
+314,USA,City,Lao Restaurant,N/A,N/A,N/A,N/A,(818) 891-1068,https://www.google.com/maps/search/?api=1&query=Lao%20Restaurant&query_place_id=ChIJC20KfGaQwoARgt236aDNR10,Restaurant
+315,USA,City,La Costa Azul Mexican/Fish Restaurant,N/A,N/A,N/A,N/A,(818) 834-4746,https://www.google.com/maps/search/?api=1&query=La%20Costa%20Azul%20Mexican%2FFish%20Restaurant&query_place_id=ChIJdcDpQz6RwoARye0y40Tb5JI,Restaurant
+316,USA,City,Casa Jalisco Restaurant,N/A,N/A,N/A,N/A,(747) 274-1086,https://www.google.com/maps/search/?api=1&query=Casa%20Jalisco%20Restaurant&query_place_id=ChIJEcSmSmiRwoARlO1BO7YyRPY,Restaurant
+317,USA,City,Tacos Colima,N/A,N/A,N/A,N/A,(818) 516-4079,https://www.google.com/maps/search/?api=1&query=Tacos%20Colima&query_place_id=ChIJ4cOmZ5ybwoARW7zer6KqWEg,Restaurant
+318,USA,City,La Peñita Restaurant,N/A,N/A,N/A,N/A,(818) 890-9706,https://www.google.com/maps/search/?api=1&query=La%20Pe%C3%B1ita%20Restaurant&query_place_id=ChIJdciiHg2RwoARqN1qS2dNt9I,Restaurant
+,,,,,,,,,,
+,,,,,,,,,,
+319,India,Mumbai,Durga Hotel (NITHYANDA),N/A,N/A,N/A,N/A,+91 97738 62041,https://www.google.com/maps/search/?api=1&query=Durga%20Hotel%20(NITHYANDA)&query_place_id=ChIJgZEw7xvJ5zsRrT-UDgC-VZY,Restaurant
+320,India,Mumbai,Hotel Food Land Chopsticks,N/A,N/A,N/A,N/A,+91 81082 32200,https://www.google.com/maps/search/?api=1&query=Hotel%20Food%20Land%20Chopsticks&query_place_id=ChIJ1_yrJf_I5zsR3UPOZkkJQXw,Restaurant
+321,India,Mumbai,Stella's kitchen,N/A,N/A,N/A,N/A,+91 96191 99918,https://www.google.com/maps/search/?api=1&query=Stella's%20kitchen&query_place_id=ChIJy5cPHQPJ5zsR1nFTtleEyNc,Restaurant
+322,India,Mumbai,Oh! Mumbai Eats,N/A,N/A,N/A,N/A,+91 97172 57584,https://www.google.com/maps/search/?api=1&query=Oh!%20Mumbai%20Eats&query_place_id=ChIJM3XD-5bJ5zsRsrx9mylaAvQ,Restaurant
+323,India,Mumbai,APNB Zanzanit Mejwani,N/A,N/A,N/A,N/A,+91 81698 99118,https://www.google.com/maps/search/?api=1&query=APNB%20Zanzanit%20Mejwani&query_place_id=ChIJATvxxkLJ5zsRRIAAEAviliM,Restaurant
+324,India,Mumbai,MALABAR RESTAURANT,N/A,N/A,N/A,N/A,+91 75609 94677,https://www.google.com/maps/search/?api=1&query=MALABAR%20RESTAURANT&query_place_id=ChIJtaWhOnXJ5zsRxA8Xk8vimv8,Restaurant
+325,India,Mumbai,Delicacy Restaurant,N/A,N/A,N/A,N/A,+91 86300 57407,https://www.google.com/maps/search/?api=1&query=Delicacy%20Restaurant&query_place_id=ChIJcS3OLfDI5zsRZclmNusz850,Restaurant
+326,India,Mumbai,Hotel Kwality Restaurant And Bar,N/A,N/A,N/A,N/A,+91 93721 24183,https://www.google.com/maps/search/?api=1&query=Hotel%20Kwality%20Restaurant%20And%20Bar&query_place_id=ChIJp96r1v7I5zsRAyvmYwQFzKM,Restaurant
+327,India,Mumbai,Aasra Cafe Star,N/A,N/A,N/A,N/A,+91 72082 70745,https://www.google.com/maps/search/?api=1&query=Aasra%20Cafe%20Star&query_place_id=ChIJPZ3U6ADJ5zsR-EgjEZKSo84,Restaurant
+328,India,Mumbai,Sadguru Sandwich,N/A,N/A,N/A,N/A,+91 98672 26358,https://www.google.com/maps/search/?api=1&query=Sadguru%20Sandwich&query_place_id=ChIJxXWBz__I5zsRCzcUejPqj10,Restaurant
+329,India,Mumbai,Fountain Hotel,N/A,N/A,N/A,N/A,+91 79823 19633,https://www.google.com/maps/search/?api=1&query=Fountain%20Hotel&query_place_id=ChIJSQnKegPJ5zsRAAAAsNqWDQc,Restaurant
+330,India,Mumbai,Nitin Restaurant,N/A,N/A,N/A,N/A,+91 88533 94098,https://www.google.com/maps/search/?api=1&query=Nitin%20Restaurant&query_place_id=ChIJtcslUGrJ5zsRRqGay99huKE,Restaurant
+331,India,Mumbai,Hotel Sadichha (Vakola),N/A,N/A,N/A,N/A,+91 85911 78889,https://www.google.com/maps/search/?api=1&query=Hotel%20Sadichha%20(Vakola)&query_place_id=ChIJt0lxx__I5zsRjpZuO0VYD6Y,Restaurant
+332,India,Mumbai,China Garden,N/A,N/A,N/A,N/A,+91 70455 56551,https://www.google.com/maps/search/?api=1&query=China%20Garden&query_place_id=ChIJlWhMjm2_5zsRQDcVreiD1pk,Restaurant
+333,India,Mumbai,Hotel Nityanand,N/A,N/A,N/A,N/A,+91 83694 57648,https://www.google.com/maps/search/?api=1&query=Hotel%20Nityanand&query_place_id=ChIJq8w0kAPJ5zsRWofsdh1GKns,Restaurant
+334,India,Mumbai,NATIONAL HINDU RESTAURANT,N/A,N/A,N/A,N/A,+91 98330 76692,https://www.google.com/maps/search/?api=1&query=NATIONAL%20HINDU%20RESTAURANT&query_place_id=ChIJJSPhpC3J5zsRU1Or9nhzDZ4,Restaurant
+335,India,Mumbai,The NorthEast Kitchen,N/A,N/A,N/A,N/A,+91 70458 32407,https://www.google.com/maps/search/?api=1&query=The%20NorthEast%20Kitchen&query_place_id=ChIJBeInZMfJ5zsRdur0HOoPH5k,Restaurant
+336,India,Mumbai,Bhagirathi Veg Restaurant,N/A,N/A,N/A,N/A,+91 99872 34088,https://www.google.com/maps/search/?api=1&query=Bhagirathi%20Veg%20Restaurant-,Restaurant
+337,India,Mumbai,Shekhar Family Restaurant,N/A,N/A,N/A,N/A,+91 90821 84505,https://www.google.com/maps/search/?api=1&query=Shekhar%20Family%20Restaurant&query_place_id=ChIJpUDYW_zJ5zsR2CG1rri-TVA,Restaurant
+338,India,Mumbai,Hotel Sudarshan,N/A,N/A,N/A,N/A,+91 22 2668 5417,https://www.google.com/maps/search/?api=1&query=Hotel%20Sudarshan&query_place_id=ChIJb3P0OgDJ5zsRFRyE1jtHEPI,Restaurant
+339,India,Mumbai,Everything Rice,N/A,N/A,N/A,N/A,+91 80974 95305,https://www.google.com/maps/search/?api=1&query=Everything%20Rice&query_place_id=ChIJkWgA_DPJ5zsRro5IvGdh_8U,Restaurant
+340,India,Mumbai,Aditi Restaurant,N/A,N/A,N/A,N/A,+91 90041 74765,https://www.google.com/maps/search/?api=1&query=Aditi%20Restaurant&query_place_id=ChIJ9eHQyN_J5zsR5xFOS18vsaU,Restaurant
+341,India,Mumbai,Hotel Dwarka,N/A,N/A,N/A,N/A,+91 77388 24100,https://www.google.com/maps/search/?api=1&query=Hotel%20Dwarka&query_place_id=ChIJRfKorb_J5zsRJ58DGso8a7w,Restaurant
+342,India,Mumbai,hotel tavakkal & restaurant,N/A,N/A,N/A,N/A,+91 80970 28057,https://www.google.com/maps/search/?api=1&query=hotel%20tavakkal%20%26%20restaurant&query_place_id=ChIJ5SK4gaHJ5zsRS_jHjnxnZGY,Restaurant
+343,India,Mumbai,Mama's Family Restaurant And Bar,N/A,N/A,N/A,N/A,+91 98344 96965,https://www.google.com/maps/search/?api=1&query=Mama's%20Family%20Restaurant%20And%20Bar&query_place_id=ChIJdbRSCozI5zsRsOCXb8fZ5HY,Restaurant
+344,USA,City,Lao Restaurant,N/A,N/A,N/A,N/A,(818) 891-1068,https://www.google.com/maps/search/?api=1&query=Lao%20Restaurant&query_place_id=ChIJC20KfGaQwoARgt236aDNR10,Restaurant
+345,USA,City,La Costa Azul Mexican/Fish Restaurant,N/A,N/A,N/A,N/A,(818) 834-4746,https://www.google.com/maps/search/?api=1&query=La%20Costa%20Azul%20Mexican%2FFish%20Restaurant&query_place_id=ChIJdcDpQz6RwoARye0y40Tb5JI,Restaurant
+346,USA,City,Casa Jalisco Restaurant,N/A,N/A,N/A,N/A,(747) 274-1086,https://www.google.com/maps/search/?api=1&query=Casa%20Jalisco%20Restaurant&query_place_id=ChIJEcSmSmiRwoARlO1BO7YyRPY,Restaurant
+347,USA,City,Tacos Colima,N/A,N/A,N/A,N/A,(818) 516-4079,https://www.google.com/maps/search/?api=1&query=Tacos%20Colima&query_place_id=ChIJ4cOmZ5ybwoARW7zer6KqWEg,Restaurant
+348,USA,City,La Peñita Restaurant,N/A,N/A,N/A,N/A,(818) 890-9706,https://www.google.com/maps/search/?api=1&query=La%20Pe%C3%B1ita%20Restaurant&query_place_id=ChIJdciiHg2RwoARqN1qS2dNt9I,Restaurant
+,,,,,,,,,,
+,,,,,,,,,,
+349,USA,Los Angeles,El Palacio de los Pepitos,N/A,N/A,N/A,N/A,17028480536,https://maps.app.goo.gl/3dKnmrCyNyivKxfN6,Restaurant
+350,USA,Los Angeles,Sinaloa Tacos,N/A,N/A,N/A,N/A,17023435472,https://maps.app.goo.gl/q3F4g6EPL8o6jp7i8,Restaurant
+351,USA,Los Angeles,Iheanacho Obidike,N/A,N/A,N/A,N/A,17024866000,https://maps.app.goo.gl/jm7GTtK3PS3jc6kM9,Restaurant
+352,USA,Los Angeles,Flavors,N/A,N/A,N/A,N/A,17023990114,https://maps.app.goo.gl/6EdsDzqiiQkBR2e26,Restaurant
+353,USA,Los Angeles,Tacos Y Tortas Chalio's Las Vegas 24hrs (Chalio’s Las Vegas),N/A,N/A,N/A,N/A,17252041362,https://maps.app.goo.gl/dkEN6ckBVKRR1GzB8,Restaurant
+354,India,Gujarat,Varniraj Restaurant,N/A,N/A,N/A,N/A,9909074524,https://maps.app.goo.gl/pmmEnqMfc2oiJmr38,Restaurant
+355,India,Gujarat,Ravi Food Zone,N/A,N/A,N/A,N/A,8511157100,https://maps.app.goo.gl/ptpLCap4u8gYzfs99,Restaurant
+356,India,Gujarat,Balaji Thal,N/A,N/A,N/A,N/A,9664611027,https://maps.app.goo.gl/gNVccNLqn2dWwXV69,Restaurant
+357,India,Gujarat,Ruso Burger,N/A,N/A,N/A,N/A,9601015959,https://maps.app.goo.gl/vwZLJhgFDpnTg8wQ9,Restaurant
+358,India,Gujarat,Shreenathji Pavbhaji,N/A,N/A,N/A,N/A,9998835209,https://maps.app.goo.gl/T8DKcJZW3QgGafuy6,Restaurant
+359,India,Gujarat,Pandya'z Rasthal,N/A,N/A,N/A,N/A,9624474464,https://maps.app.goo.gl/pxG8PGmxgaAPk1Qt5,Restaurant
+360,India,Gujarat,Vadu Tanu Restaurant,N/A,N/A,N/A,N/A,9426523145,https://maps.app.goo.gl/vcNpVdwCei4368de7,Restaurant
+361,India,Gujarat,Radhe Krishna Restaurant,N/A,N/A,N/A,N/A,9574231229,https://maps.app.goo.gl/x3qErXrNHjPd7sdi9,Restaurant
+362,India,Gujarat,Ganesh Hotel,N/A,N/A,N/A,N/A,9427564799,https://maps.app.goo.gl/RwXDrbK4kNV4Zm4dA,Restaurant
+363,India,Gujarat,Sangeeta Restaurant,N/A,N/A,N/A,N/A,9727192029,https://maps.app.goo.gl/BQsbqKjG9Lzg1Ac99,Restaurant
+364,India,Gujarat,Hotel Saurashtra,N/A,N/A,N/A,N/A,7621017519,https://maps.app.goo.gl/pzX5c7rJBQjKRDQU6,Restaurant
+365,India,Gujarat,Jay Khodiyar Hotel,N/A,N/A,N/A,N/A,9723810112,https://maps.app.goo.gl/14M6BehpXf9Wt7i9A,Restaurant
+366,India,Gujarat,DWARKADHISH RESTAURANT,N/A,N/A,N/A,N/A,9974466696,https://maps.app.goo.gl/37JbFkYqefwzVcxNA,Restaurant
+367,India,Gujarat,Impression Restaurant,N/A,N/A,N/A,N/A,7922862200,https://maps.app.goo.gl/VsNNtjQniNPDuDWu6,Restaurant
+368,India,Gujarat,New Mehfil MultiCuisine Restaurant,N/A,N/A,N/A,N/A,9586772010,https://maps.app.goo.gl/3Z5nvA9XcpEp2eRw6,Restaurant
+369,India,Gujarat,Megma Restaurant & Banquets,N/A,N/A,N/A,N/A,9512340283,https://maps.app.goo.gl/PhVTob92AjwdniE98,Restaurant
+370,India,Gujarat,The Soraa,N/A,N/A,N/A,N/A,8401531539,https://maps.app.goo.gl/V5UV4UM6S5pmZS4b7,Restaurant
+371,India,Gujarat,Dakshin Bhojnam,N/A,N/A,N/A,N/A,8868820320,https://maps.app.goo.gl/hW4oiREpz1mj1UND7,Restaurant
+372,India,Gujarat,SIX SEVEN RESTAURANT AND BANQUET,N/A,N/A,N/A,N/A,9662273267,https://maps.app.goo.gl/HXdCzxkcN2W3BL8A7,Restaurant
+373,India,Gujarat,SUNRISE RESTAURANT,N/A,N/A,N/A,N/A,9879538429,https://maps.app.goo.gl/EVabtx1ji3hLjorU8,Restaurant
+374,India,Gujarat,Dusk Restaurant,N/A,N/A,N/A,N/A,9408605440,https://maps.app.goo.gl/1946F1gJS8Bi28bL8,Restaurant
+375,India,Gujarat,Shree Abhinandan Swami Jain Bhojanshala,N/A,N/A,N/A,N/A,8487900288,https://maps.app.goo.gl/MEt6Vv9RzU8zkFRaA,Restaurant
+376,India,Gujarat,Salt Black Chickpeas,N/A,N/A,N/A,N/A,6205292208,https://maps.app.goo.gl/jqdgmyYAmXvhwnqb8,Restaurant
+377,India,Mumbai,Delhi Grills Kurla,N/A,N/A,N/A,N/A,+91 99201 88818,https://www.google.com/maps/search/?api=1&query=Delhi%20Grills%20Kurla&query_place_id=ChIJjc6L863J5zsROE2oaEabiLs,Restaurant
+378,India,Mumbai,Fusion Hub,N/A,N/A,N/A,N/A,+91 84337 23597,https://www.google.com/maps/search/?api=1&query=Fusion%20Hub&query_place_id=ChIJmeEsSbLJ5zsR7aWttaBx3S8,Restaurant
+,,,,,,,,,,
+,,,,,,,,,,
+379,India,Gujarat,Gokul Dining hall Veg Restaurant,N/A,N/A,N/A,N/A,+91 78782 52143,https://www.google.com/maps/place/?q=place_id:0x3be05b003d2fe7f9%3A0xaf1468da306d671b,Restaurant
+380,India,Gujarat,Saurastra restaurant,N/A,N/A,N/A,N/A,+91 78028 20015,https://www.google.com/maps/place/?q=place_id:0x395fc31ec28e0f6b%3A0xba396ec15c820575,Restaurant
+381,India,Gujarat,The Clove. wine 'n' dine,N/A,N/A,N/A,N/A,+91 260 263 0431,https://www.google.com/maps/place/?q=place_id:0x3be0cb5d639547a1%3A0x408491e67e5e492e,Restaurant
+382,India,Gujarat,Krishna fast food and restaurant,N/A,N/A,N/A,N/A,+91 95107 96609,https://www.google.com/maps/place/?q=place_id:0x3be0cbacf135294d%3A0x6a46d9dcc0f431ca,Restaurant
+383,India,Gujarat,SK DINING HALL HOTEL,N/A,N/A,N/A,N/A,+91 95582 40223,https://www.google.com/maps/place/?q=place_id:0x3bde3d77b9f93af5%3A0x11548c5ec1427ecc,Restaurant
+384,India,Gujarat,Sagar Dhaba Family Restaurant,N/A,N/A,N/A,N/A,+91 97251 38348,https://www.google.com/maps/place/?q=place_id:0x3be05b332510025f%3A0x6f794c28aab2792a,Restaurant
+385,India,Gujarat,Durga Nasta House,N/A,N/A,N/A,N/A,+91 79841 64398,https://www.google.com/maps/place/?q=place_id:0x395fc220e9c66c1d%3A0x4f236c82ef47d836,Restaurant
+386,India,Gujarat,Nawab Family Dhaba,N/A,N/A,N/A,N/A,+91 96624 96920,https://www.google.com/maps/place/?q=place_id:0x3be0ce7ff5ccd8b5%3A0x8b006985c3ce76bc,Restaurant
+387,India,Gujarat,Hotel Pali inn,N/A,N/A,N/A,N/A,+91 82007 08656,https://www.google.com/maps/place/?q=place_id:0x3be737fc3c5d34cd%3A0x327f607b3e125676,Restaurant
+388,India,Gujarat,Midnight Chicken,N/A,N/A,N/A,N/A,+91 99747 86382,https://www.google.com/maps/place/?q=place_id:0x3be05bc0cd17045f%3A0x2a9c8c5713cce9b,Restaurant
+389,India,Gujarat,Food Mohalla Khanvel,N/A,N/A,N/A,N/A,+91 82383 50982,https://www.google.com/maps/place/?q=place_id:0x3be7379505139e93%3A0xa346e5f703e2e776,Restaurant
+390,India,Gujarat,Simply South Refreshment,N/A,N/A,N/A,N/A,+91 82388 02994,https://www.google.com/maps/place/?q=place_id:0x3be0cb642df4b235%3A0x3f0276a5c64c1e4f,Restaurant
+391,India,Gujarat,Restaurant Sabziwala-Silvassa રેસ્ટોરેન્ટ સબ્ઝીવાલા-સેલવાસ,N/A,N/A,N/A,N/A,+91 95123 43666,https://www.google.com/maps/place/?q=place_id:0x3be0cb1091f67e93%3A0x2cbeb6e0670623c,Restaurant
+392,India,Gujarat,MAA SUBHADRA RESTAURANT,N/A,N/A,N/A,N/A,+91 63512 90837,https://www.google.com/maps/place/?q=place_id:0x395fc325649ead01%3A0x966029d980c05e70,Restaurant
+393,India,Gujarat,Jack biryani shop,N/A,N/A,N/A,N/A,+91 99249 97586,https://www.google.com/maps/place/?q=place_id:0x3be73792a9396785%3A0x783b4a360ab2954d,Restaurant
+394,India,Gujarat,Maharaja Bhoj,N/A,N/A,N/A,N/A,+91 70439 71068,https://www.google.com/maps/place/?q=place_id:0x3be0cbe939082f45%3A0x7d7701bdc76a6bde,Restaurant
+395,India,Gujarat,the village restaurant,N/A,N/A,N/A,N/A,+91 90165 30906,https://www.google.com/maps/place/?q=place_id:0x395fe8436703fa9f%3A0x151adfab903e1aa1,Restaurant
+396,India,Gujarat,Om Restaurant,N/A,N/A,N/A,N/A,+91 78190 90190,https://www.google.com/maps/place/?q=place_id:0x3be05b005ebc926f%3A0x6c9aca0df4b7bb19,Restaurant
+397,India,Gujarat,Shreenathji Restaurant,N/A,N/A,N/A,N/A,+91 92765 53150,https://www.google.com/maps/place/?q=place_id:0x3be04f3a54b536b3%3A0xe0d34f0f02064fa1,Restaurant
+398,India,Gujarat,KINARA FAMILY DHABA,N/A,N/A,N/A,N/A,+91 90168 52218,https://www.google.com/maps/place/?q=place_id:0x3be749b82c5751ed%3A0x8419ef8907896e97,Restaurant
+399,India,Gujarat,Mama omlette chicken family restaurant,N/A,N/A,N/A,N/A,+91 87804 65812,https://www.google.com/maps/place/?q=place_id:0x3be05b31a3509757%3A0x8109c24ac429355b,Restaurant
+400,India,Gujarat,Tasty corner,N/A,N/A,N/A,N/A,+91 90236 99926,https://www.google.com/maps/place/?q=place_id:0x3be0cdb6ef1f4053%3A0x533513a835f1e934,Restaurant
+401,India,Gujarat,SHIVGIRI RESORT,N/A,N/A,N/A,N/A,+91 91570 99066,https://www.google.com/maps/place/?q=place_id:0x3be74972b9b07d2b%3A0xc64e3f435c940d69,Restaurant
+402,India,Gujarat,Rajwadi Dhaba,N/A,N/A,N/A,N/A,+91 97378 42060,https://www.google.com/maps/place/?q=place_id:0x3be05b12aece0611%3A0x575bf6143be60016,Restaurant
+403,India,Gujarat,Nanawadi Chicken,N/A,N/A,N/A,N/A,+91 99046 64343,https://www.google.com/maps/place/?q=place_id:0x3be05998b0bc545f%3A0x28fc60e6fdfa02cc,Restaurant
+404,USA,City,The Smash Stand,N/A,N/A,N/A,N/A,(818) 510-5312,https://www.google.com/maps/search/?api=1&query=The%20Smash%20Stand&query_place_id=ChIJ5f0hV_ybwoARUOH0-svG57g,Restaurant
+405,USA,City,Baja Beach Tacos,N/A,N/A,N/A,N/A,(818) 488-9420,https://www.google.com/maps/search/?api=1&query=Baja%20Beach%20Tacos&query_place_id=ChIJUdRsOUObwoARREpiJXE5VgA,Restaurant
+406,USA,City,Seoul Time,N/A,N/A,N/A,N/A,(818) 488-1097,https://www.google.com/maps/search/?api=1&query=Seoul%20Time&query_place_id=ChIJi1-pGACRwoAR7MJqpi64VLM,Restaurant
+407,USA,City,“X” MARKS THE SPOT,N/A,N/A,N/A,N/A,(747) 242-8229,https://www.google.com/maps/search/?api=1&query=%E2%80%9CX%E2%80%9D%20MARKS%20THE%20SPOT&query_place_id=ChIJ9T2OXyibwoARy16GtRsK4aE,Restaurant
+408,USA,City,Flor de fuego restaurant,N/A,N/A,N/A,N/A,(818) 485-5101,https://www.google.com/maps/search/?api=1&query=Flor%20de%20fuego%20restaurant&query_place_id=ChIJdXLZ2n-RwoARkhReX_J-9jA,Restaurant
+,,,,,,,,,,
+,,,,,,,,,,
+409,India,Indore ,Dr. Manish Jain Physiotherapy,N/A,N/A,N/A,N/A,098270 31804,https://maps.google.com/?q=Dr.+Manish+Jain+Physiotherapy+Indore,Physiotherapy Clinic
+410,India,Indore ,Sai Homeopathic Clinic,N/A,N/A,N/A,N/A,098263 35501,https://maps.google.com/?q=Sai+Homeopathic+Clinic+Vijay+Nagar+Indore,Homeopathy Clinic
+411,India,Indore ,IEMS Indore,N/A,N/A,N/A,N/A,098260 11211,https://maps.google.com/?q=IEMS+Indore+Apollo+Trade+Centre,First Aid Training
+412,India,Indore ,GNC Classes,N/A,N/A,N/A,N/A,097555 58155,https://maps.google.com/?q=GNC+Classes+Bhanwarkua+Indore,Academic Coaching
+413,India,Indore ,Parmanu Medical Institute,N/A,N/A,N/A,N/A,099264 45678,https://maps.google.com/?q=Parmanu+Medical+Institute+Indore,Medical Entrance
+414,India,Indore ,Medwin Nursing Academy,N/A,N/A,N/A,N/A,098267 89012,https://maps.google.com/?q=Medwin+Nursing+Academy+Indore,Nursing Coaching
+415,India,Indore ,Swaraj Coaching Institute,N/A,N/A,N/A,N/A,0731 245 6789,https://maps.google.com/?q=Swaraj+Coaching+Institute+LIG+Indore,Academic Tuition
+416,India,Indore ,Dr. Gupta Skin & Hair,N/A,N/A,N/A,N/A,094250 55123,https://maps.google.com/?q=Dr.+Gupta+Skin+and+Hair+Indore,Skin Clinic
+417,India,Indore ,Creative Computer Training,N/A,N/A,N/A,N/A,098260 22334,https://maps.google.com/?q=Creative+Computer+Training+Sudama+Nagar+Indore,Computer Training
+418,India,Indore ,Success Spoken English,N/A,N/A,N/A,N/A,0731 405 1234,https://maps.google.com/?q=Success+Spoken+English+RNT+Marg+Indore,Spoken English
+419,India,Indore ,Ashirwad Dental Clinic,N/A,N/A,N/A,N/A,098930 11223,https://maps.google.com/?q=Ashirwad+Dental+Clinic+Annapurna+Indore,Dental Clinic
+420,USA,City,El Palacio de los Pepitos,N/A,N/A,N/A,N/A,17028480536,https://maps.app.goo.gl/3dKnmrCyNyivKxfN6,Restaurant
+421,USA,City,Sinaloa Tacos,N/A,N/A,N/A,N/A,17023435472,https://maps.app.goo.gl/q3F4g6EPL8o6jp7i8,Restaurant
+422,USA,City,Iheanacho Obidike,N/A,N/A,N/A,N/A,17024866000,https://maps.app.goo.gl/jm7GTtK3PS3jc6kM9,Restaurant
+423,USA,City,Flavors,N/A,N/A,N/A,N/A,17023990114,https://maps.app.goo.gl/6EdsDzqiiQkBR2e26,Restaurant
+424,USA,City,Tacos Y Tortas Chalio's Las Vegas 24hrs,N/A,N/A,N/A,N/A,17252041362,https://maps.app.goo.gl/dkEN6ckBVKRR1GzB8,Restaurant
+425,India,Gujarat,Varniraj Restaurant,N/A,N/A,N/A,N/A,9909074524,https://maps.app.goo.gl/pmmEnqMfc2oiJmr38,Restaurant
+426,India,Gujarat,Ravi Food Zone,N/A,N/A,N/A,N/A,8511157100,https://maps.app.goo.gl/ptpLCap4u8gYzfs99,Restaurant
+427,India,Gujarat,Balaji Thal,N/A,N/A,N/A,N/A,9664611027,https://maps.app.goo.gl/gNVccNLqn2dWwXV69,Restaurant
+428,India,Gujarat,Ruso Burger,N/A,N/A,N/A,N/A,9601015959,https://maps.app.goo.gl/vwZLJhgFDpnTg8wQ9,Restaurant
+429,India,Gujarat,Shreenathji Pavbhaji,N/A,N/A,N/A,N/A,9998835209,https://maps.app.goo.gl/T8DKcJZW3QgGafuy6,Restaurant
+430,India,Gujarat,Pandya'z Rasthal,N/A,N/A,N/A,N/A,9624474464,https://maps.app.goo.gl/pxG8PGmxgaAPk1Qt5,Restaurant
+431,India,Gujarat,Vadu Tanu Restaurant,N/A,N/A,N/A,N/A,9426523145,https://maps.app.goo.gl/vcNpVdwCei4368de7,Restaurant
+432,India,Gujarat,Radhe Krishna Restaurant,N/A,N/A,N/A,N/A,9574231229,https://maps.app.goo.gl/x3qErXrNHjPd7sdi9,Restaurant
+433,India,Gujarat,Ganesh Hotel,N/A,N/A,N/A,N/A,9427564799,https://maps.app.goo.gl/RwXDrbK4kNV4Zm4dA,Restaurant
+434,India,Gujarat,Sangeeta Restaurant,N/A,N/A,N/A,N/A,9727192029,https://maps.app.goo.gl/BQsbqKjG9Lzg1Ac99,Restaurant
+435,India,Gujarat,Hotel Saurashtra,N/A,N/A,N/A,N/A,7621017519,https://maps.app.goo.gl/pzX5c7rJBQjKRDQU6,Restaurant
+436,India,Gujarat,Jay Khodiyar Hotel,N/A,N/A,N/A,N/A,9723810112,https://maps.app.goo.gl/14M6BehpXf9Wt7i9A,Restaurant
+437,India,Gujarat,DWARKADHISH RESTAURANT,N/A,N/A,N/A,N/A,9974466696,https://maps.app.goo.gl/37JbFkYqefwzVcxNA,Restaurant
+438,India,Gujarat,Impression Restaurant,N/A,N/A,N/A,N/A,7922862200,https://maps.app.goo.gl/VsNNtjQniNPDuDWu6,Restaurant
